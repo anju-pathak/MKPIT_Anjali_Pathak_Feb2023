@@ -1,0 +1,28 @@
+<html>
+<body>
+enter accountno=<input type="text" id="n1"><br>
+enter initialb=<input type="text" id="n2"><br>
+enter amount=<input type="text" id="n3"><br>
+<input type="button" value="deposit" onclick="addNum();">
+<input type="button" value="vid" onclick="subNum();">
+<span id= "balance"> balance: </span>
+</body>
+<script language="javascript">
+function addNum()
+{
+var ac,inbal,amount,add,sub;
+ac=parseInt(document.getElementById("n1").value);
+inbal=parseInt(document.getElementById("n2").value); 
+amount=parseInt(document.getElementById("n3").value)
+add=inbal+amount;
+}
+function withDraw()
+{
+var ac,inbal,amount,add,sub;
+ac=parseInt(document.getElementById("n1").value);
+inbal=parseInt(document.getElementById("n2").value); 
+sub=inbal-amount;
+} 
+document.getElementById("wd").innerHTML="withdraw=" +sub;
+</script>
+</html>

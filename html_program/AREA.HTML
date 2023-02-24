@@ -1,0 +1,18 @@
+<html>
+<body>
+enter length=<input type="text" id="n1"><br>
+enter breath=<input type="text"  id="n2"><br>
+<input type="button" value="area" onclick="area();"></br>
+<span id="area">area:</span>
+</body>
+<script language="javascript">
+function area()
+{
+var length,breath,area;
+length=parseInt(document.getElementById("n1").value);
+breath=parseInt(document.getElementById("n2").value);
+area=length*breath;
+document.getElementById("area").innerHTML="area"+area;
+}
+</script>
+</html>

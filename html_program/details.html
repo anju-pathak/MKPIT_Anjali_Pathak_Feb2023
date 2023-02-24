@@ -1,0 +1,27 @@
+<<html>
+<body>
+enter name=<input type="text" id="n1"><br>
+enter lastname=<input type="text" id="n2"><br>
+enter email=<input type="text" id="n3"><br>
+enter mobile=<input type="text" id="n4"><br>
+<input type="button" value="submit" onclick="addNum();">
+<span id= "res"> name: </span></br>
+<span id= "nam"> lastname: </span></br>
+<span id= "mail"> email: </span></br>
+<span id= "mob"> mobile: </span></br>
+</body>
+<script language="javascript">
+function addNum()
+{
+var name,lastname,email,mobile;
+name=(document.getElementById("n1").value);
+lastname=(document.getElementById("n2").value); 
+email=parseInt(document.getElementById("n3").value);
+mobile=parseInt(document.getElementById("n4").value);
+document.getElementById("res").innerHTML="res=" +name;
+document.getElementById("nam").innerHTML="lastname="+lastname;
+document.getElementById("mail").innerHTML="email="+email;
+document.getElementById("mob").innerHTML="mob="+mobile;
+}
+</script>
+</html>

@@ -1,0 +1,26 @@
+<html>
+<script language="javascript">
+function cirCircle()
+{
+var radius,cir;
+radius=parsefloat(document.getElementById("rad").value);
+circumference=2*3.14*radius;
+document.getElementById("pmp").innerHTML="circumference="+circumference;
+}
+function circleArea()
+{
+var radius,area;
+area=parsefloat(document.getElementById("rad").value)
+area=3.14*radius*radius;
+document.getElementById("abc").innerHTML="area="+area;
+}
+</script>
+<body>
+radius:<input type=text id="rad"><br><br>
+<input type= button value="area" onclick="circleArea();">
+<input type= button value="circumference" onclick="circircle();"><br><br>
+<span id="abc">area:</span>
+<span id="pmp">circumference:</span><br><br>
+</body>
+</html>
+

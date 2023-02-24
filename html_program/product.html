@@ -1,0 +1,20 @@
+<html>
+<body>
+enter p<input type="text" id="n1"><br>
+enter q<input type="text" id="n2"><br>
+enter r<input type="text" id="n3"><br>
+<input type="button" value="ok" onclick="productAdd();"><br>
+<span id="out"> TotalAmount:</span>
+</body>
+<script language="javascript">
+function productAdd()
+{
+var p,q,r,amount;
+p=document.getElementById("n1").value;
+q=parseInt(document.getElementById("n2").value);
+r=parseInt(document.getElementById("n3").value);
+amount=r*q;
+document.getElementById("out").innerHTML="Amount" +amount;
+}
+</script>
+</html>

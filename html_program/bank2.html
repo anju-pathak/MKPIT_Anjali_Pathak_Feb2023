@@ -1,0 +1,32 @@
+<html>
+<script language="javascript">
+function deposit()
+{
+var ac,inbal,amount,Add,Sub;
+ac=document.getElementById("acno").value;
+inbal=parseInt(document.getElementById("num").value);
+amount=parseInt(document.getElementById("amn").value);
+Add=inbal+amount;
+document.getElementById("dp").innerHTML="Deposite :"+Add;
+}
+
+function withdrawal()
+{
+var ac,inbal,amount,Add,Sub;
+ac=document.getElementById("acno").value;
+inbal=document.getElementById("num").value;
+amount=document.getElementById("amn").value;
+Sub=inbal-amount;
+document.getElementById("wd").innerHTML="Withdrawal :"+Sub;
+}
+</script>
+<body>
+Account Number:<input type="text" id="acno">
+Initial balance:<input type="number" id="num">
+Amount :<input type="number" id="amn">
+<input type="button" value="Deposit" onclick="deposit();">&nbsp;
+<input type="button" value="Withdrawal" onclick="withdrawal();">
+<span id="dp"></span>
+<span id="wd"></span>
+</body>
+</html>
