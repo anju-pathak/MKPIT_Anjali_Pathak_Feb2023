@@ -1,0 +1,211 @@
+<html>
+<style>
+td:hover
+{
+background-color:black;
+text-align:center;
+}
+hr.new1 {
+  border:3px solid black;
+}
+</style>
+<form name="f1" style="width:450;height:650;border:5px solid black;">
+<table"width=100" text-align="center;">
+<p><b>CASIO....</p></b>
+<td><input type="text" name="t1" style="width:90%;padding:10px; margin:5px;"></td>
+<table  style="border:2px solid black" width=100 align="center">
+<tr>
+<hr class="new1">
+<td style="border:2px solid black" ><input type="button" name="b1" value="1" style="padding:20px; margin:15px;border-color:black" onclick="show1()";/></td>
+<td style="border:2px solid black"><input type="button"  name="b2" value="2" style="padding:20px; margin:15px;border-color:black" onclick="show2()";/ ></td>
+<td style="border:2px solid black"><input type="button"  name="b3" value="3" style="padding:20px; margin:15px;border-color:black" onclick="show3()";/></td>
+</tr>
+<tr>
+<td style="border:2px solid black"><input type="button"  name="b4" value="4" style="padding:20px; margin:15px; border-color:black;" onclick="show4()";/></td>
+<td style="border:2px solid black"><input type="button"  name="b5" value="5" style="padding:20px; margin:15px;border-color:black; " onclick="show5()";/ ></td>
+<td style="border:2px solid black" ><input type="button"  name="b6" value="6" style="padding:20px; margin:15px;border-color:black" onclick="show6()";/></td>
+</tr>
+<tr>
+<td style="border:2px solid black"><input type="button"  name="b7" value="7" style="padding:20px; margin:15px;border-color:black" onclick="show7()";/></td>
+<td style="border:2px solid black" ><input type="button"  name="b8" value="8" style="padding:20px; margin:15px;border-color:black" onclick="show8()";/ ></td>
+<td style="border:2px solid black"><input type="button"  name="b9" value="9" style="padding:20px; margin:15px;border-color:black" onclick="show9()";/></td>
+</tr>
+<tr>
+<td style="border:2px solid black"><input type="button" name="s7" value="0" style="padding:20px; margin:15px;border-color:black" onclick="show0()";/ ></td>
+<td style="border:2px solid black"><input type="button" name="s1" value="+" style="padding:20px; margin:15px;border-color:black" onclick="showplus()";/></td>
+<td style="border:2px solid black" ><input type="button" name="s2" value="-" style="padding:20px; margin:15px;border-color:black" onclick="showminus()";/></td>
+</tr>
+<tr>
+<td style="border:2px solid black"><input type="button" name="s4" value="*" style="padding:20px; margin:15px;border-color:black" onclick="showmultiply()";/></td>
+<td style="border:2px solid black" ><input type="button" name="s5" value="/" style="padding:20px; margin:15px;border-color:black" onclick="showdiv()";/></td>
+<td style="border:2px solid black" ><input type="button" name="s6" value="=" style="padding:20px; margin:15px;border-color:black" onclick="showresult()";/ ></td>
+</tr>
+</table>
+<script>
+var prevnum=0;
+var operator; 
+function show1()
+{
+if(document.f1.t1.value =='+' || document.f1.t1 == '-' || document.f1.t1 == '*'|| document.f1.t1 == '/'  )
+{
+document.f1.t1.value="";
+document.f1.t1.value="1";
+}
+else
+{
+document.f1.t1.value=document.f1.t1.value +"1";
+}
+}
+function show2()
+{
+if(document.f1.t1.value =='+' || document.f1.t1 == '-' || document.f1.t1 == '*'|| document.f1.t1 == '/')
+{
+document.f1.t1.value="";
+document.f1.t1.value="2";
+}
+else
+{
+document.f1.t1.value=document.f1.t1.value +"2";
+}
+}
+function show3()
+{
+if(document.f1.t1.value=='+' || document.f1.t1 == '-' || document.f1.t1 == '*'|| document.f1.t1 == '/')
+{
+document.f1.t1.value="";
+document.f1.t1.value="3";
+}
+else
+{
+document.f1.t1.value=document.f1.t1.value +"3";
+}
+}
+function show4()
+{
+
+if(document.f1.t1.value=='+' || document.f1.t1 == '-' || document.f1.t1 == '*'|| document.f1.t1 == '/' )
+{
+document.f1.t1.value="";
+document.f1.t1.value="4";
+}
+else
+{
+document.f1.t1.value=document.f1.t1.value +"4";
+}
+}
+function show5()
+{
+if(document.f1.t1.value=='+' || document.f1.t1 == '-' || document.f1.t1 == '*'|| document.f1.t1 == '/')
+{
+document.f1.t1.value="";
+document.f1.t1.value="5";
+}
+else
+{
+document.f1.t1.value=document.f1.t1.value +"5";
+}
+}
+function show6()
+{
+if(document.f1.t1.value=='+' || document.f1.t1 == '-' || document.f1.t1 == '*'|| document.f1.t1 == '/')
+{
+document.f1.t1.value="";
+document.f1.t1.value="6";
+}
+else
+{
+document.f1.t1.value=document.f1.t1.value +"6";
+}
+}
+function show7()
+{
+if(document.f1.t1.value=='+' || document.f1.t1 == '-' || document.f1.t1 == '*'|| document.f1.t1 == '/')
+{
+document.f1.t1.value="";
+document.f1.t1.value="7";
+}
+else
+{
+document.f1.t1.value=document.f1.t1.value +"7";
+}
+}
+function show8()
+{
+if(document.f1.t1.value=='+' || document.f1.t1 == '-' || document.f1.t1 == '*'|| document.f1.t1 == '/' )
+{
+document.f1.t1.value="";
+document.f1.t1.value="8";
+}
+else
+{
+document.f1.t1.value=document.f1.t1.value +"8";
+}
+}
+function show9()
+{
+if(document.f1.t1.value=='+' || document.f1.t1 == '-' || document.f1.t1 == '*'|| document.f1.t1 == '/')
+{
+document.f1.t1.value="";
+document.f1.t1.value="9";
+}
+else
+{
+document.f1.t1.value=document.f1.t1.value +"9";
+}
+}
+function showplus()
+{
+prevnum=document.f1.t1.value;
+operator='+';
+document.f1.t1.value="+";
+}
+function showminus()
+{
+prevnum=document.f1.t1.value;
+operator='-';
+document.f1.t1.value="-";
+}
+function showmultiply()
+{
+prevnum=document.f1.t1.value;
+operator='*';
+document.f1.t1.value="*";
+}
+function showdiv()
+{
+prevnum=document.f1.t1.value;
+operator='/';
+document.f1.t1.value="/";
+}
+
+function showresult()
+{
+if(operator=='+')
+{
+result=parseInt(prevnum) + parseInt(document.f1.t1.value);
+document.f1.t1.value=result;
+}
+else if(operator=='-')
+{
+result=parseInt(prevnum) - parseInt(document.f1.t1.value);
+document.f1.t1.value=result;
+}
+else if(operator=='*')
+{
+result=parseInt(prevnum) * parseInt(document.f1.t1.value);
+document.f1.t1.value=result;
+}
+else if(operator=='/')
+{
+result=parseInt(prevnum) / parseInt(document.f1.t1.value);
+document.f1.t1.value=result;
+}
+}
+</script>
+</html>
+
+
+
+
+
+

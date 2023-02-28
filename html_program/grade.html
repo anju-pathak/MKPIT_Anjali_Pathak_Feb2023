@@ -1,0 +1,35 @@
+<html>
+<body>
+m:<input type="text"  id="n1">
+p:<input type="text"  id="n2">
+c:<input type="text"  id="n3"><br>
+<input type="button" value="result" onclick="check();">
+<span id="s1"></span>
+<span id="s2"></span>
+<span id="s3"></span>
+</body>
+<script>
+function check()
+{
+m=parseInt(document.getElementById("n1").value);
+p=parseInt(document.getElementById("n2").value);
+c=parseInt(document.getElementById("n3").value);
+total=m+p+c;
+document.getElementById("s1").innerHTML="total" +total;
+per=total*0.3;
+document.getElementById("s2").innerHTML="per" +per;
+if(per>75)
+{
+document.getElementById("s3").innerHTML="grade:distinct";
+}
+else if(per>=60 && per<75)
+{
+document.getElementById("s3").innerHTML="grade: pass";
+}
+else
+{
+document.getElementById("s3").innerHTML="grade:fail";
+}
+}
+</script>
+</html>
