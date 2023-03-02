@@ -1,0 +1,21 @@
+<html>
+<body>
+num<input type="text" id="n1";>
+<input type="button" value="check" onclick="factorial()";>
+</body>
+<script>
+function factorial()
+{
+var num=parseInt(document.getElementById("n1").value);
+var fact=1;
+do
+{
+fact=fact*num;
+num=num-1;
+}
+while(num>0)
+document.write("factorial of num is"+fact);
+alert("factorial of num is"+fact);
+}
+</script>
+</html>

@@ -1,0 +1,41 @@
+<html>
+<body>
+char=<input type="text" id="ch"></br>
+<input type="button" value="result" onclick="con()";>
+</body>
+<script>
+function con()
+{
+var char,result;
+char=document.getElementById("ch").value;
+switch (char)
+{
+case "s":
+result="sunday";
+break;
+case "m":
+result="monday";
+break;
+case "t":
+result="tuesday";
+break;
+case "w":
+result="wednesday";
+break;
+case "th":
+result="thursday";
+break;
+case "f":
+result="friday";
+break;
+case "sa":
+result="saturday";
+break;
+default:
+result="day not found";
+break;
+}
+alert(result);
+}
+</script>
+</html>
