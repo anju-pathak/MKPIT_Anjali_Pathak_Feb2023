@@ -7,13 +7,11 @@ num<input type="text" id="t">
 function check()
 {
 var num=parseInt(document.getElementById("t").value);
-var counter=0;
+var counter=2;
 var flag=0;
 while(counter<num)
 {
-counter++
-}
-if(num%counter==2)
+if(num%counter==0)
 {
 flag=1;
 }
@@ -24,6 +22,8 @@ alert("prime")
 else
 {
 alert("number is not prime")
+}
+counter++
 }
 }
 </script>

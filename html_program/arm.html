@@ -1,0 +1,27 @@
+<html>
+<body>
+enter num:<input type="text" id="n1">
+<input type="button" value="submit" onclick="val()";/>
+</body>
+<script>
+function val()
+{
+var i,j,k;
+var num=document.getElementById("n1").value;
+ for (var i = 1; i < 10; ++i)
+ {
+   for (var j = 0; j < 10; ++j)
+     {
+        for (var k = 0; k < 10; ++k)
+        {
+          var pow = (Math.pow(i,3) + Math.pow(j,3) + Math.pow(k,3));
+          var plus = (i * 100 + j * 10 +  k);
+          if (pow == plus)
+           {    
+             document.write(pow +"<br>");
+            }
+         }
+       }
+    }
+	}
+  </script>

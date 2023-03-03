@@ -1,0 +1,16 @@
+<html>
+<body>
+enter num:<input type="text" id="n1">
+<input type="button" value="submit" onclick="val()";>
+</body>
+<script>
+function val()
+{
+var num=document.getElementById("n1").value;
+var digit1=num%10;
+var digit2=Math.floor(num/10)%10;
+var digit3=Math.floor(num/100);
+var revnum=(digit1*100)+(digit2*10)+(digit3);
+document.write(revnum)
+}
+</script>
