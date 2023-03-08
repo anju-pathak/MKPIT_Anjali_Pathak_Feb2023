@@ -1,0 +1,24 @@
+<html>
+<body>
+user=<input type="text" id="un">
+pass=<input type="text" id="up">
+<input type="button" value="submit" onclick="check();"/>
+</body>
+<script>
+function check()
+{
+var username=document.getElementById("un").value;
+var pass=document.getElementById("up").value;
+if(username=="" &&  pass=="")
+{
+alert("please enter username and password");
+}
+else
+{
+alert("welcome user"+username);
+}
+}
+</script>
+</html>
+
+

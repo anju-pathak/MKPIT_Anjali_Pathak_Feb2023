@@ -1,0 +1,26 @@
+<html>
+<body>
+<form method="post" action="contactus.html" onsubmit="return check">
+user=<input type="text" id="un"></br>
+pass=<input type="password" id="up"></br>
+<input type="submit" value="submit" >
+</form>
+</body>
+<script>
+function check()
+{
+var username=document.getElementById("un").value;
+var pass=document.getElementById("up").value;
+if(username=="" &&  pass=="")
+{
+alert("please enter username and password");
+return false;
+}
+else if(pass.length<6)
+{
+alert("password must be atleast 6 char")
+return false;
+}
+}
+</script>
+</html>

@@ -1,0 +1,15 @@
+<html>
+<body>
+<div style="width:400px; heigth:300px;border:1px solid red;" onmousemove="mmove(this);">mkpits</div>
+<p id="p1">coordinates</p>
+</body>
+<script>
+function mmove(obj)
+{
+var X=obj.clientx;
+var Y=obj.clienty;
+var cor=X+","+Y;
+document.getElementById("p1").innerHTML=cor;
+}
+</script>
+</html>
