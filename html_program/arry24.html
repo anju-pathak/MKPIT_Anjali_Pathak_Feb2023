@@ -1,5 +1,6 @@
 <html>
 <body>
+
 <table align="center" border=1px solid red width=50 height=50>
 <tr>
 <th><button id="b1" value="-" onclick="one();"></button></th>
@@ -30,55 +31,5 @@ document.getElementById("b1").innerHTML=arr[0];
 document.getElementById("b2").innerHTML=arr[1];
 document.getElementById("b3").innerHTML=arr[2];
 }
-var arr1=[1,2,3];
-var result=0;
-var x;
-function one()
-{
-x=document.getElementById("b1").innerHTML;
-if(arr1[result]==x)
-{
-result=result+1;
-}
-else
-{
-alert("you lost the game")
-}
-}
-function two()
-{
-x=document.getElementById("b2").innerHTML;
-if(arr1[result]==x)
-{
-result=result+1;
-if(result==3)
-{
-alert("cong you won the game")
-}
-}
-else
-{
-alert("you lost the game");
-}
-}
-function three()
-{
-x=document.getElementById("b3").innerHTML;
-if(arr1[result]==x)
-{
-result=result+1;
-if(result==3)
-{
-alert("cong you won the game");
-}
-}
-else
-{
-alert("you lost the game");
-}
-}
 </script>
 </html>
-
-
-

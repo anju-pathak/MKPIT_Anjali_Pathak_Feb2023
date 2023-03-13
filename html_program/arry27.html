@@ -1,25 +1,28 @@
 <html>
 <body>
-<table align="center" border=1px solid red width=200 height=200 style="background-color:white;padding:2%">
+<center>
+<h1 align="center">time remaims : <span id="s1">1.00min</span ></h1>
+</center>
+<table align="center" border=1px solid green width=200 height=200 style="background-color:lightgreen;padding:2%">
 <tr>
-  <th><button id="b1" value="-" style="color:red;background-color:black" onclick="one();"/></button></th>
-  <th><button id="b2" value="-" style="color:red;background-color:black" onclick="two();" /></button></th>
-  <th><button id="b3" value="-" style="color:red;background-color:black" onclick="three();" /></button></th>
+  <th><button id="b1" value="-" style="color:red;background-color:gray" onclick="one();"/></button></th>
+  <th><button id="b2" value="-" style="color:red;background-color:gray" onclick="two();" /></button></th>
+  <th><button id="b3" value="-" style="color:red;background-color:gray" onclick="three();" /></button></th>
 </tr>
 <tr>
-  <th><button id="b4" value="-"style="color:red;background-color:black" onclick="four();"/></button></th>
-  <th><button id="b5" value="-" style="color:red;background-color:black"onclick="five();"/></button></th>
-  <th><button id="b6" value="-"style="color:red;background-color:black" onclick="six();"/></button></th>
+  <th><button id="b4" value="-"style="color:red;background-color:gray" onclick="four();"/></button></th>
+  <th><button id="b5" value="-" style="color:red;background-color:gray"onclick="five();"/></button></th>
+  <th><button id="b6" value="-"style="color:red;background-color:gray" onclick="six();"/></button></th>
 </tr>
 <tr>
-  <th><button id="b7" value="-"style="color:red;background-color:black" onclick="seven();"/></button></th>
-  <th><button id="b8" value="-"style="color:red;background-color:black" onclick="eight();"/></button></th>
-  <th><button id="b9" value="-"style="color:red;background-color:black" onclick="nine();"/></button></th>
+  <th><button id="b7" value="-"style="color:red;background-color:gray" onclick="seven();"/></button></th>
+  <th><button id="b8" value="-"style="color:red;background-color:gray" onclick="eight();"/></button></th>
+  <th><button id="b9" value="-"style="color:red;background-color:gray" onclick="nine();"/></button></th>
 </tr>
 <tr>
-  <th><button id="b10" value="-" style="color:red;background-color:black" onclick="ten();"/></button></th>
-  <th><button id="b11" value="-"style="color:red;background-color:black"  onclick="eleven();"/></button></th>
-  <th><button id="b12" value="-"style="color:red;background-color:black"  onclick="twelve();"/></button></th>
+  <th><button id="b10" value="-" style="color:red;background-color:gray" onclick="ten();"/></button></th>
+  <th><button id="b11" value="-"style="color:red;background-color:gray"  onclick="eleven();"/></button></th>
+  <th><button id="b12" value="-"style="color:red;background-color:gray"  onclick="twelve();"/></button></th>
 </tr>
 </table>
 <center>
@@ -28,6 +31,7 @@
 </body>
 
 <script>
+
     var arr=new Array()
     var num=12;
 do
@@ -54,6 +58,22 @@ document.getElementById("b9").innerHTML=arr[8];
 document.getElementById("b10").innerHTML=arr[9];
 document.getElementById("b11").innerHTML=arr[10];
 document.getElementById("b12").innerHTML=arr[11];
+
+var counter=60;
+setInterval(function()
+{
+counter--;
+if(counter>=0)
+{
+var res=document.getElementById("s1");
+res.innerHTML="00"+counter+"sec";
+}
+if(counter==0)
+{
+clearInterval(counter);
+}
+}
+,1000)
 }
 var arr1=[1,2,3,4,5,6,7,8,9,10,11,12];
 var result=0;

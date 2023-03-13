@@ -1,5 +1,7 @@
 <html>
 <body>
+<h1 align="center">time remaims : <span id="s1">1.00min</span ></h1>
+<input type="button" value="submit" onclick="startt();"/>
 <table align="center" border=1px solid red width=50 height=50>
 <tr>
 <th><button id="b1" value="-" onclick="one();"></button></th>
@@ -12,6 +14,24 @@
 </tr>
 </body>
 <script>
+function startt()
+{
+var counter=60;
+setInterval(function()
+{
+counter--;
+if(counter>=0)
+{
+var res=document.getElementById("s1");
+res.innerHTML="00"+counter+"sec";
+}
+if(counter==0)
+{
+clearInterval(counter);
+}
+}
+,1000)
+}
 var arr=new Array()
 var num=3;
 do
