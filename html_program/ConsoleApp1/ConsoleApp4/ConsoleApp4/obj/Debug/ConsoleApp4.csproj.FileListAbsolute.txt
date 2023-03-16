@@ -1,0 +1,8 @@
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\html_program\ConsoleApp1\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\html_program\ConsoleApp1\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\html_program\ConsoleApp1\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\html_program\ConsoleApp1\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\html_program\ConsoleApp1\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\html_program\ConsoleApp1\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\html_program\ConsoleApp1\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\html_program\ConsoleApp1\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
