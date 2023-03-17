@@ -1,0 +1,8 @@
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ushort\ushort\obj\Debug\ushort.csproj.AssemblyReference.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ushort\ushort\obj\Debug\ushort.csproj.SuggestedBindingRedirects.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ushort\ushort\obj\Debug\ushort.csproj.CoreCompileInputs.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ushort\ushort\bin\Debug\@ushort.exe.config
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ushort\ushort\bin\Debug\@ushort.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ushort\ushort\bin\Debug\@ushort.pdb
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ushort\ushort\obj\Debug\@ushort.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ushort\ushort\obj\Debug\@ushort.pdb

@@ -1,0 +1,8 @@
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\int\int\bin\Debug\@int.exe.config
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\int\int\bin\Debug\@int.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\int\int\bin\Debug\@int.pdb
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\int\int\obj\Debug\int.csproj.AssemblyReference.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\int\int\obj\Debug\int.csproj.SuggestedBindingRedirects.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\int\int\obj\Debug\int.csproj.CoreCompileInputs.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\int\int\obj\Debug\@int.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\int\int\obj\Debug\@int.pdb

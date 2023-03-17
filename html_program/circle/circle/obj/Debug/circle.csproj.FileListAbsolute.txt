@@ -1,0 +1,8 @@
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\circle\circle\bin\Debug\circle.exe.config
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\circle\circle\bin\Debug\circle.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\circle\circle\bin\Debug\circle.pdb
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\circle\circle\obj\Debug\circle.csproj.AssemblyReference.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\circle\circle\obj\Debug\circle.csproj.SuggestedBindingRedirects.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\circle\circle\obj\Debug\circle.csproj.CoreCompileInputs.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\circle\circle\obj\Debug\circle.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\circle\circle\obj\Debug\circle.pdb

@@ -1,0 +1,8 @@
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\bytee\bytee\obj\Debug\bytee.csproj.AssemblyReference.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\bytee\bytee\obj\Debug\bytee.csproj.SuggestedBindingRedirects.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\bytee\bytee\obj\Debug\bytee.csproj.CoreCompileInputs.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\bytee\bytee\bin\Debug\bytee.exe.config
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\bytee\bytee\bin\Debug\bytee.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\bytee\bytee\bin\Debug\bytee.pdb
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\bytee\bytee\obj\Debug\bytee.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\bytee\bytee\obj\Debug\bytee.pdb

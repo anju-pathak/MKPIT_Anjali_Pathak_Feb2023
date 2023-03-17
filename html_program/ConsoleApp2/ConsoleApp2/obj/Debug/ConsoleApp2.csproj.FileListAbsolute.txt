@@ -1,0 +1,8 @@
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
