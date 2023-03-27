@@ -1,0 +1,11 @@
+E:\ccc\prime\prime\bin\Debug\prime.exe.config
+E:\ccc\prime\prime\bin\Debug\prime.exe
+E:\ccc\prime\prime\bin\Debug\prime.pdb
+E:\ccc\prime\prime\obj\Debug\prime.csproj.AssemblyReference.cache
+E:\ccc\prime\prime\obj\Debug\prime.csproj.SuggestedBindingRedirects.cache
+E:\ccc\prime\prime\obj\Debug\prime.Form1.resources
+E:\ccc\prime\prime\obj\Debug\prime.Properties.Resources.resources
+E:\ccc\prime\prime\obj\Debug\prime.csproj.GenerateResource.cache
+E:\ccc\prime\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+E:\ccc\prime\prime\obj\Debug\prime.exe
+E:\ccc\prime\prime\obj\Debug\prime.pdb

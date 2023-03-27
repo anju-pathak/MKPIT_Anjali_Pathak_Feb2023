@@ -1,0 +1,11 @@
+E:\ccc\bank1\bank1\bin\Debug\bank1.exe.config
+E:\ccc\bank1\bank1\bin\Debug\bank1.exe
+E:\ccc\bank1\bank1\bin\Debug\bank1.pdb
+E:\ccc\bank1\bank1\obj\Debug\bank1.csproj.AssemblyReference.cache
+E:\ccc\bank1\bank1\obj\Debug\bank1.csproj.SuggestedBindingRedirects.cache
+E:\ccc\bank1\bank1\obj\Debug\bank1.Form1.resources
+E:\ccc\bank1\bank1\obj\Debug\bank1.Properties.Resources.resources
+E:\ccc\bank1\bank1\obj\Debug\bank1.csproj.GenerateResource.cache
+E:\ccc\bank1\bank1\obj\Debug\bank1.csproj.CoreCompileInputs.cache
+E:\ccc\bank1\bank1\obj\Debug\bank1.exe
+E:\ccc\bank1\bank1\obj\Debug\bank1.pdb

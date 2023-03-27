@@ -1,0 +1,11 @@
+E:\ccc\grade\grade\bin\Debug\grade.exe.config
+E:\ccc\grade\grade\bin\Debug\grade.exe
+E:\ccc\grade\grade\bin\Debug\grade.pdb
+E:\ccc\grade\grade\obj\Debug\grade.csproj.AssemblyReference.cache
+E:\ccc\grade\grade\obj\Debug\grade.csproj.SuggestedBindingRedirects.cache
+E:\ccc\grade\grade\obj\Debug\grade.Form1.resources
+E:\ccc\grade\grade\obj\Debug\grade.Properties.Resources.resources
+E:\ccc\grade\grade\obj\Debug\grade.csproj.GenerateResource.cache
+E:\ccc\grade\grade\obj\Debug\grade.csproj.CoreCompileInputs.cache
+E:\ccc\grade\grade\obj\Debug\grade.exe
+E:\ccc\grade\grade\obj\Debug\grade.pdb

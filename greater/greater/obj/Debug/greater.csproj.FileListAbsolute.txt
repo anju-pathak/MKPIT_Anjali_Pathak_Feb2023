@@ -1,0 +1,11 @@
+E:\ccc\greater\greater\bin\Debug\greater.exe.config
+E:\ccc\greater\greater\bin\Debug\greater.exe
+E:\ccc\greater\greater\bin\Debug\greater.pdb
+E:\ccc\greater\greater\obj\Debug\greater.csproj.AssemblyReference.cache
+E:\ccc\greater\greater\obj\Debug\greater.csproj.SuggestedBindingRedirects.cache
+E:\ccc\greater\greater\obj\Debug\greater.Form1.resources
+E:\ccc\greater\greater\obj\Debug\greater.Properties.Resources.resources
+E:\ccc\greater\greater\obj\Debug\greater.csproj.GenerateResource.cache
+E:\ccc\greater\greater\obj\Debug\greater.csproj.CoreCompileInputs.cache
+E:\ccc\greater\greater\obj\Debug\greater.exe
+E:\ccc\greater\greater\obj\Debug\greater.pdb

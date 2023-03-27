@@ -1,0 +1,11 @@
+E:\ccc\add\add\bin\Debug\add.exe.config
+E:\ccc\add\add\bin\Debug\add.exe
+E:\ccc\add\add\bin\Debug\add.pdb
+E:\ccc\add\add\obj\Debug\add.csproj.AssemblyReference.cache
+E:\ccc\add\add\obj\Debug\add.csproj.SuggestedBindingRedirects.cache
+E:\ccc\add\add\obj\Debug\add.Form1.resources
+E:\ccc\add\add\obj\Debug\add.Properties.Resources.resources
+E:\ccc\add\add\obj\Debug\add.csproj.GenerateResource.cache
+E:\ccc\add\add\obj\Debug\add.csproj.CoreCompileInputs.cache
+E:\ccc\add\add\obj\Debug\add.exe
+E:\ccc\add\add\obj\Debug\add.pdb

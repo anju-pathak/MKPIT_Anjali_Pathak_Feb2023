@@ -1,0 +1,11 @@
+E:\ccc\emp\emp\bin\Debug\emp.exe.config
+E:\ccc\emp\emp\bin\Debug\emp.exe
+E:\ccc\emp\emp\bin\Debug\emp.pdb
+E:\ccc\emp\emp\obj\Debug\emp.csproj.AssemblyReference.cache
+E:\ccc\emp\emp\obj\Debug\emp.csproj.SuggestedBindingRedirects.cache
+E:\ccc\emp\emp\obj\Debug\emp.Form1.resources
+E:\ccc\emp\emp\obj\Debug\emp.Properties.Resources.resources
+E:\ccc\emp\emp\obj\Debug\emp.csproj.GenerateResource.cache
+E:\ccc\emp\emp\obj\Debug\emp.csproj.CoreCompileInputs.cache
+E:\ccc\emp\emp\obj\Debug\emp.exe
+E:\ccc\emp\emp\obj\Debug\emp.pdb

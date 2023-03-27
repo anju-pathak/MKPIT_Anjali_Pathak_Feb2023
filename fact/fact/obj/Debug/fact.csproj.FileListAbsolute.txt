@@ -1,0 +1,11 @@
+E:\ccc\fact\fact\bin\Debug\fact.exe.config
+E:\ccc\fact\fact\bin\Debug\fact.exe
+E:\ccc\fact\fact\bin\Debug\fact.pdb
+E:\ccc\fact\fact\obj\Debug\fact.csproj.AssemblyReference.cache
+E:\ccc\fact\fact\obj\Debug\fact.csproj.SuggestedBindingRedirects.cache
+E:\ccc\fact\fact\obj\Debug\fact.Form1.resources
+E:\ccc\fact\fact\obj\Debug\fact.Properties.Resources.resources
+E:\ccc\fact\fact\obj\Debug\fact.csproj.GenerateResource.cache
+E:\ccc\fact\fact\obj\Debug\fact.csproj.CoreCompileInputs.cache
+E:\ccc\fact\fact\obj\Debug\fact.exe
+E:\ccc\fact\fact\obj\Debug\fact.pdb
