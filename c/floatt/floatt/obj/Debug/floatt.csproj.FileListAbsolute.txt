@@ -1,0 +1,8 @@
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\floatt\floatt\bin\Debug\floatt.exe.config
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\floatt\floatt\bin\Debug\floatt.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\floatt\floatt\bin\Debug\floatt.pdb
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\floatt\floatt\obj\Debug\floatt.csproj.AssemblyReference.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\floatt\floatt\obj\Debug\floatt.csproj.SuggestedBindingRedirects.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\floatt\floatt\obj\Debug\floatt.csproj.CoreCompileInputs.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\floatt\floatt\obj\Debug\floatt.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\floatt\floatt\obj\Debug\floatt.pdb

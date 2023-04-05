@@ -1,0 +1,8 @@
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ulong\ulong\bin\Debug\@ulong.exe.config
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ulong\ulong\bin\Debug\@ulong.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ulong\ulong\bin\Debug\@ulong.pdb
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ulong\ulong\obj\Debug\ulong.csproj.AssemblyReference.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ulong\ulong\obj\Debug\ulong.csproj.SuggestedBindingRedirects.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ulong\ulong\obj\Debug\ulong.csproj.CoreCompileInputs.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ulong\ulong\obj\Debug\@ulong.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\ulong\ulong\obj\Debug\@ulong.pdb

@@ -1,0 +1,8 @@
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\while\while\bin\Debug\@while.exe.config
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\while\while\bin\Debug\@while.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\while\while\bin\Debug\@while.pdb
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\while\while\obj\Debug\while.csproj.AssemblyReference.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\while\while\obj\Debug\while.csproj.SuggestedBindingRedirects.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\while\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\while\while\obj\Debug\@while.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\while\while\obj\Debug\@while.pdb

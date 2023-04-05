@@ -1,0 +1,8 @@
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\doublefloat\doublefloat\bin\Debug\doublefloat.exe.config
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\doublefloat\doublefloat\bin\Debug\doublefloat.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\doublefloat\doublefloat\bin\Debug\doublefloat.pdb
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\doublefloat\doublefloat\obj\Debug\doublefloat.csproj.AssemblyReference.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\doublefloat\doublefloat\obj\Debug\doublefloat.csproj.SuggestedBindingRedirects.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\doublefloat\doublefloat\obj\Debug\doublefloat.csproj.CoreCompileInputs.cache
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\doublefloat\doublefloat\obj\Debug\doublefloat.exe
+E:\..net\MKPIT_Anjali_Pathak_Feb2023\csharp\doublefloat\doublefloat\obj\Debug\doublefloat.pdb
