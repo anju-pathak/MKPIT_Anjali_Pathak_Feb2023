@@ -1,0 +1,12 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\bin\Debug\calculator.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\bin\Debug\calculator.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\bin\Debug\calculator.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\obj\Debug\calculator.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\obj\Debug\calculator.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\obj\Debug\calculator.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\calculator\calculator\obj\Debug\calculator.Form2.resources

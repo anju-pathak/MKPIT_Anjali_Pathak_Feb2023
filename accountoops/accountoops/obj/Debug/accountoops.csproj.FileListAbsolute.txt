@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\accountoops\accountoops\bin\Debug\accountoops.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\accountoops\accountoops\bin\Debug\accountoops.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\accountoops\accountoops\bin\Debug\accountoops.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\accountoops\accountoops\obj\Debug\accountoops.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\accountoops\accountoops\obj\Debug\accountoops.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\accountoops\accountoops\obj\Debug\accountoops.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\accountoops\accountoops\obj\Debug\accountoops.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\accountoops\accountoops\obj\Debug\accountoops.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\accountoops\accountoops\obj\Debug\accountoops.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\accountoops\accountoops\obj\Debug\accountoops.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\accountoops\accountoops\obj\Debug\accountoops.pdb
