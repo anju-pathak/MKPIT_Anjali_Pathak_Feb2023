@@ -1,0 +1,8 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\inheritance6\inheritance6\bin\Debug\inheritance6.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\inheritance6\inheritance6\bin\Debug\inheritance6.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\inheritance6\inheritance6\bin\Debug\inheritance6.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\inheritance6\inheritance6\obj\Debug\inheritance6.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\inheritance6\inheritance6\obj\Debug\inheritance6.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\inheritance6\inheritance6\obj\Debug\inheritance6.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\inheritance6\inheritance6\obj\Debug\inheritance6.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\inheritance6\inheritance6\obj\Debug\inheritance6.pdb

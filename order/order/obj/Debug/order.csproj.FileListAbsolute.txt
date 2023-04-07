@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\order\order\bin\Debug\order.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\order\order\bin\Debug\order.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\order\order\bin\Debug\order.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\order\order\obj\Debug\order.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\order\order\obj\Debug\order.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\order\order\obj\Debug\order.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\order\order\obj\Debug\order.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\order\order\obj\Debug\order.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\order\order\obj\Debug\order.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\order\order\obj\Debug\order.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\order\order\obj\Debug\order.pdb
