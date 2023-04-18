@@ -1,0 +1,8 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\abstract\abstract\bin\Debug\@abstract.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\abstract\abstract\bin\Debug\@abstract.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\abstract\abstract\bin\Debug\@abstract.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\abstract\abstract\obj\Debug\abstract.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\abstract\abstract\obj\Debug\abstract.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\abstract\abstract\obj\Debug\abstract.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\abstract\abstract\obj\Debug\@abstract.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\abstract\abstract\obj\Debug\@abstract.pdb

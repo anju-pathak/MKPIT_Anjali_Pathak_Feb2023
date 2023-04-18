@@ -1,0 +1,8 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\maths\maths\bin\Debug\maths.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\maths\maths\bin\Debug\maths.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\maths\maths\bin\Debug\maths.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\maths\maths\obj\Debug\maths.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\maths\maths\obj\Debug\maths.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\maths\maths\obj\Debug\maths.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\maths\maths\obj\Debug\maths.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\maths\maths\obj\Debug\maths.pdb

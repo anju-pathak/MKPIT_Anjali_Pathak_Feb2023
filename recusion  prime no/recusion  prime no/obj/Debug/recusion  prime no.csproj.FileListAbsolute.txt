@@ -1,0 +1,8 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\recusion  prime no\recusion  prime no\bin\Debug\recusion  prime no.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\recusion  prime no\recusion  prime no\bin\Debug\recusion  prime no.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\recusion  prime no\recusion  prime no\bin\Debug\recusion  prime no.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\recusion  prime no\recusion  prime no\obj\Debug\recusion  prime no.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\recusion  prime no\recusion  prime no\obj\Debug\recusion  prime no.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\recusion  prime no\recusion  prime no\obj\Debug\recusion  prime no.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\recusion  prime no\recusion  prime no\obj\Debug\recusion  prime no.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\recusion  prime no\recusion  prime no\obj\Debug\recusion  prime no.pdb

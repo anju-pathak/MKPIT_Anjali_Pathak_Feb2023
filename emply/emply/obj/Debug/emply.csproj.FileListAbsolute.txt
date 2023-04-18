@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\emply\emply\obj\Debug\emply.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\emply\emply\obj\Debug\emply.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\emply\emply\obj\Debug\emply.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\emply\emply\obj\Debug\emply.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\emply\emply\obj\Debug\emply.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\emply\emply\obj\Debug\emply.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\emply\emply\bin\Debug\emply.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\emply\emply\bin\Debug\emply.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\emply\emply\bin\Debug\emply.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\emply\emply\obj\Debug\emply.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\emply\emply\obj\Debug\emply.pdb
