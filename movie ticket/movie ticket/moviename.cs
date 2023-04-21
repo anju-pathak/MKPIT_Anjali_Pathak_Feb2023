@@ -8,16 +8,16 @@ namespace movie_ticket
 {
     internal class moviename
     {
-        private string _name;
+        private string namee;
         private string theater;
         private int time;
         private int seatnumber;
         private int price;
-        public string name { set; get; }
-        public string Theater { set; get; }
-        public int Time { set;get; }
-        public int Satnumber { set; get;}
-        public int Price { set; get; }
+        public string name { get; set; }
+        public string Theater { get; set; }
+        public int Time { get; set; }
+        public int Seatnumber { get; set; }
+        public int Price { get; set; }
         }
     }
-}
+

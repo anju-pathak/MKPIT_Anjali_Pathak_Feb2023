@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\booking\booking\obj\Debug\booking.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\booking\booking\obj\Debug\booking.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\booking\booking\obj\Debug\booking.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\booking\booking\obj\Debug\booking.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\booking\booking\obj\Debug\booking.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\booking\booking\obj\Debug\booking.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\booking\booking\bin\Debug\booking.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\booking\booking\bin\Debug\booking.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\booking\booking\bin\Debug\booking.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\booking\booking\obj\Debug\booking.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\booking\booking\obj\Debug\booking.pdb
