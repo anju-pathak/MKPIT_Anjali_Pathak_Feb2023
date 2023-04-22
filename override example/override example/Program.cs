@@ -14,7 +14,7 @@ namespace override_example
             dog dog = new dog();
             cat.speak();
             dog.speak();
-            Console.ReadKey();  
+            Console.ReadKey();
         }
         class animal
         {
