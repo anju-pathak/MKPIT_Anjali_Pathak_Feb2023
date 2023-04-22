@@ -91,11 +91,11 @@ namespace booking
             Movie_Ticket movie = null;
             if (radioButton1.Checked)
             {
-                movie = new Online_booking(comboBox1.Text,comboBox2.Text,comboBox3.Text,Convert.ToInt32(numericUpDown1.Value),Convert.ToInt32(textBox1.Text));
+                movie = new Online_booking(comboBox1.Text,comboBox2.Text,Convert.ToInt16(comboBox3.Text),Convert.ToInt32(numericUpDown1.Value),Convert.ToInt32(textBox1.Text));
             }
             else if (radioButton2.Checked)
             {
-                movie = new Box_Office(comboBox1.Text,comboBox2.Text,comboBox3.Text,Convert.ToInt32( numericUpDown1.Value), Convert.ToInt32(textBox1.Text));
+                movie = new Box_Office(comboBox1.Text,comboBox2.Text,Convert.ToInt16(comboBox3.Text),Convert.ToInt32( numericUpDown1.Value), Convert.ToInt32(textBox1.Text));
 
             }
             label7.Text =  movie.Calculate_Ticket_Price();
