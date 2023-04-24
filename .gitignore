@@ -1,5 +1,5 @@
-.sln
-App.config
+*.sln
+*.App.config
 */bin.
 */obj.
-AssemblyInfo.cs
+*.A8ssemblyInfo.cs
