@@ -10,7 +10,7 @@ namespace booking
     {
         public string Movie_Name { get; set; }
         public string Movie_Theatre { get; set; }
-        public int show_time { get; set; }
+        public string show_time { get; set; }
         public int No_Of_seat { get; set; }
 
         public int Ticket_price { get; set; }
@@ -24,7 +24,7 @@ namespace booking
     class Online_booking : Movie_Ticket
     {
         public float Discount { get; set; }
-        public Online_booking(string Movie_Name, string Movie_Theatre, int show_time, int No_Of_seat, int Ticket_price)
+        public Online_booking(string Movie_Name, string Movie_Theatre, string show_time, int No_Of_seat, int Ticket_price)
            {
             this.Movie_Name=Movie_Name;
             this.Movie_Theatre=Movie_Theatre;
@@ -37,6 +37,7 @@ namespace booking
 
           public override string Calculate_Ticket_Price()
           {
+            Discount = 0.1f;
             float tp = No_Of_seat * Ticket_price + Discount;
                return "Total Price : " + tp.ToString();
           }
@@ -45,7 +46,7 @@ namespace booking
     class Box_Office : Movie_Ticket
     {
         public float Amount { get; set; }
-        public Box_office(string Movie_Name, string Movie_Theatre, int show_time, int No_Of_seat, int Ticket_price)
+        public Box_Office(string Movie_Name, string Movie_Theatre, string show_time, int No_Of_seat, int Ticket_price)
         {
             this.Movie_Name = Movie_Name;
             this.Movie_Theatre = Movie_Theatre;
@@ -53,11 +54,12 @@ namespace booking
             this.No_Of_seat = No_Of_seat;
             this.Ticket_price = Ticket_price;
         }
-
+        public float Booking_Amount { get; set; }
         public override string Calculate_Ticket_Price()
         {
+            Booking_Amount = 20;
             float tp = No_Of_seat * Ticket_price + Amount;
-            return "amount" + tp.ToString();
+            return "Total Price" + tp.ToString();
         }
 
     }
