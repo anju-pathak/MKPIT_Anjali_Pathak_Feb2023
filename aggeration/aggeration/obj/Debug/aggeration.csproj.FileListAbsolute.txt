@@ -1,0 +1,8 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\aggeration\aggeration\bin\Debug\aggeration.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\aggeration\aggeration\bin\Debug\aggeration.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\aggeration\aggeration\bin\Debug\aggeration.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\aggeration\aggeration\obj\Debug\aggeration.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\aggeration\aggeration\obj\Debug\aggeration.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\aggeration\aggeration\obj\Debug\aggeration.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\aggeration\aggeration\obj\Debug\aggeration.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\aggeration\aggeration\obj\Debug\aggeration.pdb

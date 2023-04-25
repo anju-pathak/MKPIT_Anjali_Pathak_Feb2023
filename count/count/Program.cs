@@ -1,33 +1,35 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace @static
+namespace count
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
-            acc obj = new acc(123,"manish");
-            acc objj = new acc(22, "anjaki");
-            acc.roi=67.8f;
-            obj.display();
-            objj.display();
-           
-        }
+        
+            static void Main(string[] args)
+            {
+                acc obj = new acc(123, "manish");
+                acc objj = new acc(22, "anjaki");
+                
+                obj.display();
+                objj.display();
+            Console.WriteLine("no of obj" + acc.count);
+
+            }
         class acc
         {
             public int accno;
             public string name;
-            public static float roi = 4.5f;
+            public static int count;
 
             public acc(int accno, string name)
             {
                 this.accno = accno;
                 this.name = name;
+                count++;
 
             }
 
@@ -35,10 +37,10 @@ namespace @static
             {
                 Console.WriteLine("accno" + accno);
                 Console.WriteLine("name" + name);
-                Console.WriteLine(roi);
-
-
+                
             }
         }
     }
 }
+
+       
