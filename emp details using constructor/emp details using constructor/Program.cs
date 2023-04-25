@@ -23,7 +23,7 @@ namespace emp_details_using_constructor
             public int age;
             public emp()
             {
-                Console.WriteLine(id);
+                Console.WriteLine("cons");
                 Console.WriteLine("name"+name);
                 Console.WriteLine("age"+age);
             }
