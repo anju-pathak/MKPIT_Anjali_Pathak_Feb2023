@@ -1,0 +1,8 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\comapre\comapre\bin\Debug\comapre.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\comapre\comapre\bin\Debug\comapre.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\comapre\comapre\bin\Debug\comapre.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\comapre\comapre\obj\Debug\comapre.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\comapre\comapre\obj\Debug\comapre.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\comapre\comapre\obj\Debug\comapre.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\comapre\comapre\obj\Debug\comapre.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\comapre\comapre\obj\Debug\comapre.pdb
