@@ -1,0 +1,8 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\enum1\enum1\bin\Debug\enum1.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\enum1\enum1\bin\Debug\enum1.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\enum1\enum1\bin\Debug\enum1.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\enum1\enum1\obj\Debug\enum1.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\enum1\enum1\obj\Debug\enum1.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\enum1\enum1\obj\Debug\enum1.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\enum1\enum1\obj\Debug\enum1.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\enum1\enum1\obj\Debug\enum1.pdb
