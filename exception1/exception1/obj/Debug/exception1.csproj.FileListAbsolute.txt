@@ -1,0 +1,8 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\exception1\exception1\obj\Debug\exception1.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\exception1\exception1\obj\Debug\exception1.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\exception1\exception1\obj\Debug\exception1.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\exception1\exception1\bin\Debug\exception1.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\exception1\exception1\bin\Debug\exception1.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\exception1\exception1\bin\Debug\exception1.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\exception1\exception1\obj\Debug\exception1.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\exception1\exception1\obj\Debug\exception1.pdb
