@@ -1,0 +1,8 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\format\format\bin\Debug\format.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\format\format\bin\Debug\format.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\format\format\bin\Debug\format.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\format\format\obj\Debug\format.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\format\format\obj\Debug\format.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\format\format\obj\Debug\format.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\format\format\obj\Debug\format.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\format\format\obj\Debug\format.pdb
