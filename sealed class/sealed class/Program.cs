@@ -23,7 +23,7 @@ namespace sealed_class
                 Console.WriteLine("name");
             }
         }
-        
+       
         
        
 
