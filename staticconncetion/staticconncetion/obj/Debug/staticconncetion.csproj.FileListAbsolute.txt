@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\staticconncetion\staticconncetion\bin\Debug\staticconncetion.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\staticconncetion\staticconncetion\bin\Debug\staticconncetion.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\staticconncetion\staticconncetion\bin\Debug\staticconncetion.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\staticconncetion\staticconncetion\obj\Debug\staticconncetion.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\staticconncetion\staticconncetion\obj\Debug\staticconncetion.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\staticconncetion\staticconncetion\obj\Debug\staticconncetion.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\staticconncetion\staticconncetion\obj\Debug\staticconncetion.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\staticconncetion\staticconncetion\obj\Debug\staticconncetion.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\staticconncetion\staticconncetion\obj\Debug\staticconncetion.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\staticconncetion\staticconncetion\obj\Debug\staticconncetion.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\staticconncetion\staticconncetion\obj\Debug\staticconncetion.pdb

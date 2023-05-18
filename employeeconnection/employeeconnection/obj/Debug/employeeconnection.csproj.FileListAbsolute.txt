@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\employeeconnection\employeeconnection\bin\Debug\employeeconnection.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\employeeconnection\employeeconnection\bin\Debug\employeeconnection.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\employeeconnection\employeeconnection\bin\Debug\employeeconnection.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\employeeconnection\employeeconnection\obj\Debug\employeeconnection.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\employeeconnection\employeeconnection\obj\Debug\employeeconnection.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\employeeconnection\employeeconnection\obj\Debug\employeeconnection.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\employeeconnection\employeeconnection\obj\Debug\employeeconnection.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\employeeconnection\employeeconnection\obj\Debug\employeeconnection.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\employeeconnection\employeeconnection\obj\Debug\employeeconnection.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\employeeconnection\employeeconnection\obj\Debug\employeeconnection.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\employeeconnection\employeeconnection\obj\Debug\employeeconnection.pdb

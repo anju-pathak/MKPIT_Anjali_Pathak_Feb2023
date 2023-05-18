@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\disconnect\disconnect\obj\Debug\disconnect.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\disconnect\disconnect\obj\Debug\disconnect.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\disconnect\disconnect\obj\Debug\disconnect.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\disconnect\disconnect\obj\Debug\disconnect.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\disconnect\disconnect\obj\Debug\disconnect.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\disconnect\disconnect\obj\Debug\disconnect.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\disconnect\disconnect\bin\Debug\disconnect.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\disconnect\disconnect\bin\Debug\disconnect.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\disconnect\disconnect\bin\Debug\disconnect.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\disconnect\disconnect\obj\Debug\disconnect.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\disconnect\disconnect\obj\Debug\disconnect.pdb

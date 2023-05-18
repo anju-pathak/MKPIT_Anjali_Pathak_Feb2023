@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\doctorconnection\doctorconnection\bin\Debug\doctorconnection.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\doctorconnection\doctorconnection\bin\Debug\doctorconnection.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\doctorconnection\doctorconnection\bin\Debug\doctorconnection.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\doctorconnection\doctorconnection\obj\Debug\doctorconnection.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\doctorconnection\doctorconnection\obj\Debug\doctorconnection.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\doctorconnection\doctorconnection\obj\Debug\doctorconnection.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\doctorconnection\doctorconnection\obj\Debug\doctorconnection.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\doctorconnection\doctorconnection\obj\Debug\doctorconnection.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\doctorconnection\doctorconnection\obj\Debug\doctorconnection.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\doctorconnection\doctorconnection\obj\Debug\doctorconnection.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\doctorconnection\doctorconnection\obj\Debug\doctorconnection.Form1.resources

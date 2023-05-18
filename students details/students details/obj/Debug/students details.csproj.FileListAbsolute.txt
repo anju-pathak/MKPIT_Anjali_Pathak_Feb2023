@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\students details\students details\obj\Debug\students details.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\students details\students details\obj\Debug\students details.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\students details\students details\obj\Debug\students_details.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\students details\students details\obj\Debug\students_details.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\students details\students details\obj\Debug\students details.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\students details\students details\obj\Debug\students details.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\students details\students details\bin\Debug\students details.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\students details\students details\bin\Debug\students details.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\students details\students details\bin\Debug\students details.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\students details\students details\obj\Debug\students details.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\students details\students details\obj\Debug\students details.pdb

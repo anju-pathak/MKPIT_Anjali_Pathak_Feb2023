@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\empcity\empcity\obj\Debug\empcity.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\empcity\empcity\obj\Debug\empcity.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\empcity\empcity\obj\Debug\empcity.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\empcity\empcity\obj\Debug\empcity.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\empcity\empcity\obj\Debug\empcity.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\empcity\empcity\obj\Debug\empcity.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\empcity\empcity\bin\Debug\empcity.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\empcity\empcity\bin\Debug\empcity.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\empcity\empcity\bin\Debug\empcity.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\empcity\empcity\obj\Debug\empcity.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\empcity\empcity\obj\Debug\empcity.pdb

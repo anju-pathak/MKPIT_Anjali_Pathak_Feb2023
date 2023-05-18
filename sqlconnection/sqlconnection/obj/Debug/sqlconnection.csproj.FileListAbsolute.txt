@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\sqlconnection\sqlconnection\bin\Debug\sqlconnection.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\sqlconnection\sqlconnection\bin\Debug\sqlconnection.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\sqlconnection\sqlconnection\bin\Debug\sqlconnection.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\sqlconnection\sqlconnection\obj\Debug\sqlconnection.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\sqlconnection\sqlconnection\obj\Debug\sqlconnection.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\sqlconnection\sqlconnection\obj\Debug\sqlconnection.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\sqlconnection\sqlconnection\obj\Debug\sqlconnection.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\sqlconnection\sqlconnection\obj\Debug\sqlconnection.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\sqlconnection\sqlconnection\obj\Debug\sqlconnection.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\sqlconnection\sqlconnection\obj\Debug\sqlconnection.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\sqlconnection\sqlconnection\obj\Debug\sqlconnection.pdb
