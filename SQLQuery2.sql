@@ -1,32 +1,9 @@
-create table Studentsss(rollno int,name varchar(20), city varchar(20), state varchar(20),course varchar(20))
-insert into Studentsss values(1,'anjali','nagpur','maharashtra','java')
-insert into Studentsss values(2,'anjali','pune','maharashtra','java')
-insert into Studentsss values(3,'mona','kolkata','WB','c')
-insert into Studentsss values(4,'tanu','kalmeshwar','maharashtra','java')
-insert into Studentsss values(5,'yasmin','nagpur','maharashtra','c')
-insert into Studentsss values(6,'karishma','nagpur','maharashtra','c')
-insert into Studentsss values(7,'sana','kanpur','UP','java')
-insert into Studentsss values(8,'soni','nagpur','maharashtra','java')
-insert into Studentsss values(9,'tanu','delhi','UP','c')
-insert into Studentsss values(10,'somi','jaipur','UP','java')
-insert into Studentsss values(11,'sonika','nagpur','maharashtra','c')
-select *from 
-select *from Studentsss
-select *from Studentsss order by name desc
-
-select *from studentsss where rollno>6
-select *from studentsss where rollno<9
-select *from studentsss where rollno>1 and rollno<9
-select *from studentsss where name='anjali'
-select *from studentsss where course='java'
-
-select *from studentsss
-select *from studentsss where  city='nagpur'
-select *from studentsss where state ='UP'
-select course,COUNT(*) from studentsss 
-where city='nagpur' group by course
-select name,COUNT(*) from studentsss where state='UP'
-group by name
-
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [Product_Category_ID]
+      ,[Product_Type_Name]
+      ,[Product_Gst_ID]
+  FROM [fendhal].[dbo].[TableProductCategory]
+  select a.CGST,a.SGST ,a.IGST from TableProductGSTDetails a inner join TableProductCategory b on
+  a.Product_Gst_ID=a.Product_Gst_ID where Gst_Detail_Name='computer';
 
 

@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\fendhalpractices\fendhalpractices\bin\Debug\fendhalpractices.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\fendhalpractices\fendhalpractices\bin\Debug\fendhalpractices.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\fendhalpractices\fendhalpractices\bin\Debug\fendhalpractices.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\fendhalpractices\fendhalpractices\obj\Debug\fendhalpractices.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\fendhalpractices\fendhalpractices\obj\Debug\fendhalpractices.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\fendhalpractices\fendhalpractices\obj\Debug\fendhalpractices.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\fendhalpractices\fendhalpractices\obj\Debug\fendhalpractices.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\fendhalpractices\fendhalpractices\obj\Debug\fendhalpractices.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\fendhalpractices\fendhalpractices\obj\Debug\fendhalpractices.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\fendhalpractices\fendhalpractices\obj\Debug\fendhalpractices.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\fendhalpractices\fendhalpractices\obj\Debug\fendhalpractices.pdb

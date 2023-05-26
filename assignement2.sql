@@ -12,4 +12,16 @@ select city from school where city in(select city from fee where city='nagpur');
 select city,name,rollno from school where city in(select city from fee where city='kalmeshwar');
 select feeid,amout from fee where rollno in(select rollno from fee where amout>=100);
 select * from school where courseid in(select courseid from school where courseid=1);
-select feeid,amout,name from fee where rollno in(select rollno from school where city='nagpur');
+select feeid,amout from fee where rollno in(select rollno from school where city='nagpur');
+select s.name,s.rollno,s.courseid,f.feeid,f.amout from school s inner join fee f
+on s.rollno=f.rollno
+select s.name,s.rollno,s.courseid,f.feeid,f.amout from school s right join fee f
+on s.rollno=f.rollno
+select * from fee where rollno in(select rollno from fee where amout<=1900);
+select * from fee where rollno in(select rollno from fee where amout<1900);
+select min(amout)amount from fee 
+select max(amout)amount from fee where amout=1900 
+select avg(amout)amount from fee 
+select sum(amout) amount from fee
+select count(amout)amount from fee
+select feeid,courseid,amout from fee where amout=(select max (amout) from fee)

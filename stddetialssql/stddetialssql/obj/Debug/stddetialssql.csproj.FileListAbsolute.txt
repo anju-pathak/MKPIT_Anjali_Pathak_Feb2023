@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\stddetialssql\stddetialssql\obj\Debug\stddetialssql.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\stddetialssql\stddetialssql\obj\Debug\stddetialssql.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\stddetialssql\stddetialssql\obj\Debug\stddetialssql.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\stddetialssql\stddetialssql\obj\Debug\stddetialssql.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\stddetialssql\stddetialssql\obj\Debug\stddetialssql.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\stddetialssql\stddetialssql\obj\Debug\stddetialssql.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\stddetialssql\stddetialssql\bin\Debug\stddetialssql.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\stddetialssql\stddetialssql\bin\Debug\stddetialssql.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\stddetialssql\stddetialssql\bin\Debug\stddetialssql.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\stddetialssql\stddetialssql\obj\Debug\stddetialssql.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\stddetialssql\stddetialssql\obj\Debug\stddetialssql.pdb

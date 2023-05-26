@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\institutedetails\institutedetails\bin\Debug\institutedetails.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\institutedetails\institutedetails\bin\Debug\institutedetails.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\institutedetails\institutedetails\bin\Debug\institutedetails.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\institutedetails\institutedetails\obj\Debug\institutedetails.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\institutedetails\institutedetails\obj\Debug\institutedetails.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\institutedetails\institutedetails\obj\Debug\institutedetails.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\institutedetails\institutedetails\obj\Debug\institutedetails.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\institutedetails\institutedetails\obj\Debug\institutedetails.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\institutedetails\institutedetails\obj\Debug\institutedetails.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\institutedetails\institutedetails\obj\Debug\institutedetails.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\institutedetails\institutedetails\obj\Debug\institutedetails.pdb
