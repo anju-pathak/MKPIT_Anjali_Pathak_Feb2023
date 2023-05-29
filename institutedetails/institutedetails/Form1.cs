@@ -93,7 +93,7 @@ namespace institutedetails
 
         private void button1_Click(object sender, EventArgs e)
         {
-           // checkuserdetails();
+           checkuserdetials();
         }
         public void checkuserdetials()
         {
