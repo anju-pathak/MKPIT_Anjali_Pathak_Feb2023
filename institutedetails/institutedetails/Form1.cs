@@ -107,7 +107,11 @@ namespace institutedetails
 
         private void button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             checkuserdetials();
+=======
+           checkuserdetials();
+>>>>>>> d9f756b9c610da248e83e9b937ce65055b0f27bb
         }
         public void checkuserdetials()
         {
