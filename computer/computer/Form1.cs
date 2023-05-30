@@ -11,12 +11,16 @@ using System.Windows.Forms;
 
 namespace computer
 {
-    enum gender { male, female, other }
+   
 
 
     public partial class Form1 : Form
     {
-       
+        enum Gender { male, female, other }
+        Gender gender;
+        enum Pay { cash,emi}
+        Pay pay;
+
         public Form1()
         {
             InitializeComponent();
@@ -93,7 +97,7 @@ namespace computer
 
             if (textBox7.Text == "")
             {
-                calculate_total();
+                
             }
             else
             {
@@ -101,22 +105,54 @@ namespace computer
             }
         }
              public void calculate_total()
-             { 
-                double total = Convert.ToDouble(textBox4.Text) * Convert.ToDouble(textBox7.Text);
-                textBox9.Text= total.ToString();
-                double cgst=Convert.ToDouble(textBox4.Text)*(Convert.ToDouble(textBox10.Text)/100.0);
-                textBox11.Text = cgst.ToString();
-                  double sgst = Convert.ToDouble(textBox4.Text) *( Convert.ToDouble(textBox12.Text)/100.0);
-                  textBox13.Text = sgst.ToString();
-                 double netamount=Convert.ToDouble(textBox9.Text)*Convert.ToDouble(textBox13.Text);
-                textBox14.Text = netamount.ToString();
-            calculate_total();
-             }
+        {
+            double total = Convert.ToDouble(textBox4.Text) * Convert.ToDouble(textBox7.Text);
+            textBox9.Text = total.ToString();
+            double cgst = Convert.ToDouble(textBox4.Text) * ((Convert.ToDouble(textBox10.Text) / 100.0));
+            textBox11.Text = cgst.ToString();
+            double sgst = Convert.ToDouble(textBox4.Text) * ((Convert.ToDouble(textBox12.Text) / 100.0));
+            textBox13.Text = sgst.ToString();
+            double netamount = Convert.ToDouble(textBox9.Text) * Convert.ToDouble(textBox13.Text);
+            textBox14.Text = netamount.ToString();
+            //calculate_total();
+        }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
 
+            gender = Gender.male;
 
+        }
+
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        {
+            gender = Gender.other;
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            gender = Gender.female;
+        }
+
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+
+            pay = Pay.cash;
+            if (radioButton4.Checked)
+            {
+
+                textBox16.Text = textBox14.Text;
+            }
+               
+           
+        }
+
+        private void radioButton5_CheckedChanged(object sender, EventArgs e)
+        {
+            pay = Pay.emi;
+           double balamount;
+            balamount = (Convert.ToDouble(textBox14.Text) / 3);
+            textBox16.Text = balamount.ToString();
         }
     }
     

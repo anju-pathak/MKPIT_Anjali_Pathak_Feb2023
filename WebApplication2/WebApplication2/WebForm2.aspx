@@ -41,10 +41,10 @@
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
                     <td>
-                        <asp:Button ID="Button1" runat="server" Text="ADD" />
-                        <asp:Button ID="Button2" runat="server" Text="SUB" />
-                        <asp:Button ID="Button3" runat="server" Text="MUL" />
-                        <asp:Button ID="Button4" runat="server" Text="Div" />
+                        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="ADD" />
+                        <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="SUB" />
+                        <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="MUL" />
+                        <asp:Button ID="Button4" runat="server" OnClick="Button4_Click" Text="Div" />
                     </td>
                 </tr>
                 <tr>
