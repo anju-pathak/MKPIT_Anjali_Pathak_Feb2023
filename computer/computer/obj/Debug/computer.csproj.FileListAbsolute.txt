@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\computer\computer\bin\Debug\computer.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\computer\computer\bin\Debug\computer.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\computer\computer\bin\Debug\computer.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\computer\computer\obj\Debug\computer.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\computer\computer\obj\Debug\computer.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\computer\computer\obj\Debug\computer.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\computer\computer\obj\Debug\computer.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\computer\computer\obj\Debug\computer.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\computer\computer\obj\Debug\computer.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\computer\computer\obj\Debug\computer.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\computer\computer\obj\Debug\computer.pdb

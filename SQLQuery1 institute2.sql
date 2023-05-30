@@ -42,19 +42,10 @@ insert into city values(1022,'balangoda',108)
 insert into city values(1023,'kalana',108)
 
 create table courseid(courseregid int primary key identity,categoryid int,fullname varchar(20),gender int)
-insert into courseid values(4,1,'mk',1)
-insert into courseid values(5,2,'mk1',2)
-insert into courseid values(6,1,'ravi',1)
-insert into courseid values(7,1,'anand',1)
-insert into courseid values(8,1,'gopal',1)
-insert into courseid values(9,1,'girva',2)
-insert into courseid values(10,1,'pranjali',1)
-insert into courseid values(11,1,'gurav',1)
-insert into courseid values(12,1,'dhanjay',1)
-insert into courseid values(13,1,'anjali',1)
-insert into courseid values(14,2,'mona',1)
-insert into courseid values(15,1,'tanu',1)
-insert into courseid values(16,2,'anaa',2)
+insert into courseid values(1,'mk',1)
+insert into courseid values(2,'mk1',2)
+insert into courseid values(1,'ravi',1)
+
 
 
 
@@ -66,7 +57,7 @@ insert into courseid values(16,2,'anaa',2)
 create table addres(regaddid int identity,courseregid int constraint e11 foreign key(courseregid) references courseid(courseregid),nationid int
 constraint e21 foreign key(nationid) references nation(nationid),stateid int constraint e31 foreign key(stateid) references state(stateid),
  cityid int,constraint e41 foreign key(cityid) references city(cityid));
- insert into addres values(1,4,4,102,1003)
+ insert into addres values(4,102,1003)
  insert into addres values(2,4,4,104,1009)
  insert into addres values(3,4,4,102,1003)
  insert into addres values(4,4,4,104,1012)
@@ -80,10 +71,6 @@ constraint e21 foreign key(nationid) references nation(nationid),stateid int con
  insert into addres values(12,15,2,104,1012)
  insert into addres values(13,16,1,101,1002)
 
- select * from addres
-  
-select * from fee
- select TOP 5 from courseid 
 
 
 
@@ -109,4 +96,4 @@ select * from fee
  
 
 
-
+ SELECT top 1 courseregid FROM  courseid ORDER BY  courseregid  DESC 

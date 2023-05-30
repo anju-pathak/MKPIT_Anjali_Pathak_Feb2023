@@ -1,0 +1,13 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\bin\Debug\mdi form.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\bin\Debug\mdi form.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\bin\Debug\mdi form.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\obj\Debug\mdi form.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\obj\Debug\mdi form.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\obj\Debug\mdi_form.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\obj\Debug\mdi_form.Form2.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\obj\Debug\mdi_form.Form3.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\obj\Debug\mdi_form.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\obj\Debug\mdi form.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\obj\Debug\mdi form.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\obj\Debug\mdi form.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mdi form\mdi form\obj\Debug\mdi form.pdb

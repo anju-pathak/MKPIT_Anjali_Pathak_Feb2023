@@ -189,12 +189,10 @@
             // radioButton3
             // 
             this.radioButton3.AutoSize = true;
-            this.radioButton3.Checked = true;
             this.radioButton3.Location = new System.Drawing.Point(10, 29);
             this.radioButton3.Name = "radioButton3";
             this.radioButton3.Size = new System.Drawing.Size(58, 20);
             this.radioButton3.TabIndex = 0;
-            this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Male";
             this.radioButton3.UseVisualStyleBackColor = true;
             this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
@@ -273,6 +271,7 @@
             this.textBox3.Size = new System.Drawing.Size(198, 22);
             this.textBox3.TabIndex = 5;
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
+            this.textBox3.Leave += new System.EventHandler(this.textBox3_Leave);
             // 
             // textBox2
             // 
@@ -315,9 +314,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(18, 30);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(90, 16);
+            this.label5.Size = new System.Drawing.Size(86, 16);
             this.label5.TabIndex = 0;
-            this.label5.Text = "Totak Amount";
+            this.label5.Text = "Total Amount";
             // 
             // button1
             // 
