@@ -42,6 +42,8 @@ namespace computer
             comboBox1. DataSource=ds.Tables[0];
             comboBox1.DisplayMember = "Product_Type_Name";
             //comboBox1.ValueMember= "Product_Category_ID ";
+          
+            dataGridView1.DataSource = ds.Tables[0];
 
         }
 
@@ -112,7 +114,7 @@ namespace computer
             textBox11.Text = cgst.ToString();
             double sgst = Convert.ToDouble(textBox4.Text) * ((Convert.ToDouble(textBox12.Text) / 100.0));
             textBox13.Text = sgst.ToString();
-            double netamount = Convert.ToDouble(textBox9.Text) * Convert.ToDouble(textBox13.Text);
+            double netamount = Convert.ToDouble(textBox9.Text) +Convert.ToDouble(textBox13.Text);
             textBox14.Text = netamount.ToString();
             //calculate_total();
         }
@@ -149,10 +151,29 @@ namespace computer
 
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
         {
+            
             pay = Pay.emi;
-           double balamount;
-            balamount = (Convert.ToDouble(textBox14.Text) / 3);
-            textBox16.Text = balamount.ToString();
+            
+
+            double balamount =Convert.ToDouble(textBox9.Text) - Convert.ToDouble(textBox16.Text);
+           textBox14.Text = balamount.ToString();
+          
+            
+        }
+
+        private void textBox16_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox16_Leave(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void radioButton4_Leave(object sender, EventArgs e)
+        {
+             textBox16.Text = "";
         }
     }
     

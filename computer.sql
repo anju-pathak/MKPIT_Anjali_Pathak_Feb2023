@@ -49,3 +49,4 @@ select * from TableProductGSTDetails
 
  select a.cgst,a.sgst from TableProductGSTDetails a inner join  TableProductCategory b on
  a.Product_Gst_ID=b.Product_Gst_ID where Gst_Detail_Name='computer';
+  create table invoicedetails( Product_Category int,Product int,Frist_name varchar(20),Last_name varchar(20),gender int,mobile_number int,Amount_to_pay double,product_name int, avaiable double,total_quantity double,price double,cgst double ,sgst double,date datetime,quantity_requried int,total_price double,cash double,emi double,net_amount double;

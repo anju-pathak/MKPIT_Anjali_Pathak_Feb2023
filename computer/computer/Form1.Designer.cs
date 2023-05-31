@@ -168,6 +168,8 @@
             this.textBox16.Name = "textBox16";
             this.textBox16.Size = new System.Drawing.Size(198, 22);
             this.textBox16.TabIndex = 14;
+            this.textBox16.TextChanged += new System.EventHandler(this.textBox16_TextChanged);
+            this.textBox16.Leave += new System.EventHandler(this.textBox16_Leave);
             // 
             // label20
             // 
@@ -579,6 +581,7 @@
             this.radioButton4.Text = "Cash";
             this.radioButton4.UseVisualStyleBackColor = true;
             this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged);
+            this.radioButton4.Leave += new System.EventHandler(this.radioButton4_Leave);
             // 
             // button1
             // 

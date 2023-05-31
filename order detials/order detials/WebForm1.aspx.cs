@@ -38,8 +38,8 @@ namespace order_detials
                 sa.Append("payment" + RadioButton2.Text + "<br>");
             }
             Label1.Text += sa.ToString();
-
         }
+    }
 
         protected void RadioButton2_CheckedChanged(object sender, EventArgs e)
         {
@@ -55,13 +55,14 @@ namespace order_detials
 
         protected void RadioButton1_CheckedChanged(object sender, EventArgs e)
         {
-            int n1, n2, res = 0,emi;
+            int n1, n2, res = 0, emi;
             n1 = Convert.ToInt32(TextBox3.Text);
             n2 = Convert.ToInt32(TextBox4.Text);
             res = n1 * n2;
             emi = res / 3;
-            Label1.Text = res.ToString();
+        Label1.Text = res.ToString();
+
         }
-       
+
     }
 }
