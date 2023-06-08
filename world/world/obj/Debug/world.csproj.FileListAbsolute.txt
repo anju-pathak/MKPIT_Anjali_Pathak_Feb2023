@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\world\world\obj\Debug\world.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\world\world\obj\Debug\world.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\world\world\obj\Debug\world.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\world\world\obj\Debug\world.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\world\world\obj\Debug\world.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\world\world\obj\Debug\world.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\world\world\bin\Debug\world.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\world\world\bin\Debug\world.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\world\world\bin\Debug\world.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\world\world\obj\Debug\world.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\world\world\obj\Debug\world.pdb

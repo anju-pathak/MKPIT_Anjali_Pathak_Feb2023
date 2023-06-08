@@ -1,0 +1,2 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\home aspx\home aspx\obj\Debug\home aspx.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\home aspx\home aspx\obj\Debug\home aspx.csproj.CoreCompileInputs.cache

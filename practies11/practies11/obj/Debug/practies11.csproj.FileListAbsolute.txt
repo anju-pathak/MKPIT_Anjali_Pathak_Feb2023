@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\practies11\practies11\bin\Debug\practies11.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\practies11\practies11\bin\Debug\practies11.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\practies11\practies11\bin\Debug\practies11.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\practies11\practies11\obj\Debug\practies11.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\practies11\practies11\obj\Debug\practies11.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\practies11\practies11\obj\Debug\practies11.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\practies11\practies11\obj\Debug\practies11.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\practies11\practies11\obj\Debug\practies11.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\practies11\practies11\obj\Debug\practies11.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\practies11\practies11\obj\Debug\practies11.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\practies11\practies11\obj\Debug\practies11.pdb
