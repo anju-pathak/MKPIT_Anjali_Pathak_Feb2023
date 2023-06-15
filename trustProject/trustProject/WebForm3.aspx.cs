@@ -40,9 +40,7 @@ namespace trustProject
            // SqlCommand command();
             if (RadioButton1.Checked)
             {
-                str = "insert into  tranaction (item_id, transaction_date ,department_id,quantity) values(@item_id, @transaction_date ,@department_id,@quantity)";
-
-
+                str="insert into  tranaction (item_id, transaction_date ,department_id,quantity) values(@item_id, @transaction_date ,@department_id,@quantity)";
                 SqlCommand command = new SqlCommand(str, con);
                 command.Parameters.AddWithValue("@item_id", DropDownList1.SelectedValue);
                 command.Parameters.AddWithValue("@transaction_date", TextBox6.Text);
@@ -52,8 +50,6 @@ namespace trustProject
                 con.Open();
                 command.ExecuteNonQuery();
                 con.Close();
-                Label1.Text = "record saved";
-
 
                 int bal = 0;
                 str = "select  balance_quantity from item_master where item_id=@item_id";
@@ -69,15 +65,57 @@ namespace trustProject
                 con.Close();
                 int qty=bal-Convert.ToInt32(TextBox7.Text);
                 Response.Write(qty);
-                str = "update item_master set balance_quantity=@balance_quantity where item_id=@item_id)";
-                SqlCommand command2 = new SqlCommand();
+                str = "update item_master set balance_quantity=@balance_quantity where item_id=@item_id";
+                command  = new SqlCommand(str,con);
                 command.Parameters.AddWithValue("@balance_quantity", qty);
                 command.Parameters.AddWithValue("item_id", DropDownList1.SelectedValue);
                 con.Open();
                 command.ExecuteNonQuery();
-                con.Close();
+                //con.Close();
                 Label1.Text = "record saved";
             }
+
+            if (RadioButton2.Checked)
+            {
+                str = "insert into  tranaction (item_id, transaction_date ,vendor_id,quantity) values(@item_id, @transaction_date ,@vendor_id,@quantity)";
+
+
+                SqlCommand command = new SqlCommand(str, con);
+                command.Parameters.AddWithValue("@item_id", DropDownList1.SelectedValue);
+                command.Parameters.AddWithValue("@transaction_date", TextBox6.Text);
+                command.Parameters.AddWithValue("@vendor_id", DropDownList2.SelectedValue);
+                command.Parameters.AddWithValue("@quantity", TextBox7.Text);
+
+                con.Open();
+                command.ExecuteNonQuery();
+                con.Close();
+                //Label1.Text = "record sunmitted";
+
+                int bal = 0;
+                str = "select  balance_quantity from item_master where item_id=@item_id";
+                command = new SqlCommand(str, con);
+                command.Parameters.AddWithValue("@item_id", DropDownList1.SelectedValue);
+                con.Open();
+                SqlDataReader reader = command.ExecuteReader();
+                if (reader.Read())
+                {
+                    bal = Convert.ToInt32(reader[0].ToString());
+                }
+                reader.Close();
+                con.Close();
+                int qty = bal +Convert.ToInt32(TextBox7.Text);
+                Response.Write(qty);
+                str = "update item_master set balance_quantity=@balance_quantity where item_id=@item_id";
+                command = new SqlCommand(str, con);
+                command.Parameters.AddWithValue("@balance_quantity", qty);
+                command.Parameters.AddWithValue("item_id", DropDownList1.SelectedValue);
+                con.Open();
+                command.ExecuteNonQuery();
+                //con.Close();
+                Label1.Text = "record saved";
+            }
+
+
         }
 
         protected void Button2_Click(object sender, EventArgs e)

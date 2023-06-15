@@ -1,0 +1,6 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\dbclass\dbclass\bin\Debug\dbclass.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\dbclass\dbclass\bin\Debug\dbclass.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\dbclass\dbclass\obj\Debug\dbclass.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\dbclass\dbclass\obj\Debug\dbclass.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\dbclass\dbclass\obj\Debug\dbclass.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\dbclass\dbclass\obj\Debug\dbclass.pdb
