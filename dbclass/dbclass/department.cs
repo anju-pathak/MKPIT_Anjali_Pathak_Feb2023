@@ -62,7 +62,7 @@ namespace dbclass
             DataSet ds = new DataSet();
             SqlDataAdapter da = new SqlDataAdapter(query, con);
             da.SelectCommand.Parameters.AddWithValue("@department_id", department_id);
-            da.Fill(ds, "searchvendor");
+            da.Fill(ds, "department_mast");
             return ds;
 
         }
