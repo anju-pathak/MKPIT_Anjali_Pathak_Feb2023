@@ -11,26 +11,7 @@ namespace dbclass
 {
     public static class transcation
     {
-        //    static SqlConnection con = Class1.getConnection();
-        //    static string query = null;
-        //    static SqlCommand cmd = null;
-        //public static string inserttran(int item_id, DateTime transaction_date, int department_id, int quantity)
-        //{
-        //    string res = null;
-        //    query = "insert into tranaction values(@item_id,@transaction_date,@department_id,@quantity)";
-        //    cmd = new SqlCommand(query, con);
-
-        //    cmd.Parameters.AddWithValue("@item_id", item_id);
-        //    cmd.Parameters.AddWithValue("@transaction_date", transaction_date);
-        //    cmd.Parameters.AddWithValue("@department_id", department_id);
-        //    cmd.Parameters.AddWithValue("@quantity", quantity);
-        //    con.Open();
-        //    cmd.ExecuteNonQuery();
-        //    res = "record inserted";
-        //    con.Close();
-        //    return res;
-        //}
-
+     
 
         static SqlConnection conn = Class1.getConnection();
         static SqlCommand cmd = null;
@@ -40,7 +21,7 @@ namespace dbclass
             string res = null;
 
 
-            query = "insert into tranaction (item_id,transaction_date,department_id,quantity) values(@item_id,@transaction_date,@department_id,@quantity)";
+            query ="insert into tranaction (item_id,transaction_date,department_id,quantity) values(@item_id,@transaction_date,@department_id,@quantity)";
             cmd = new SqlCommand(query, conn);
             cmd.Parameters.AddWithValue("@item_id", itemid);
             cmd.Parameters.AddWithValue("@transaction_date", transactiondate);
