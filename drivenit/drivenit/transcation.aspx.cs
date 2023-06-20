@@ -37,7 +37,7 @@ namespace drivenit
                     tran = "R";
                 }
                 command.Parameters.AddWithValue("@trantype", tran);
-                command.Parameters.AddWithValue("@tranqty", TextBox2.Text);
+                command.Parameters.AddWithValue("@tranqty",Convert.ToInt32( TextBox2.Text));
                 command.Parameters.AddWithValue("@date", TextBox3.Text);
                 con.Open();
                 command.ExecuteNonQuery();
@@ -70,12 +70,17 @@ namespace drivenit
             finally { con.Close(); }
 
         }
-
+      
         protected void Button2_Click(object sender, EventArgs e)
         {
+            int updateqty = 0;
+            Response.Write("transcation id" + tranid.ToString());
+            updateqty = Convert.ToInt32(TextBox2.Text) - oldtranqty;
+            Response.Write("updateqty"+updateqty.ToString());
+
             try
             {
-                query = "update Transactions set trantype=@trantype,tranqty=@tranqty,date=@date where itemid=@itemid";
+                query = "update Transactions set itemid=@itemid,transtype=@transtype,transqty=@transqty,transdate=@transdate where TransID=@TransID";
                 command = new SqlCommand(query, con);
 
                 string tran = null;
@@ -83,14 +88,17 @@ namespace drivenit
                 {
                     tran = "I";
                 }
-                else if (RadioButton2.Checked) 
+                else if (RadioButton2.Checked)
                 {
                     tran = "R";
                 }
-                command.Parameters.AddWithValue("@trantype", tran);
-                command.Parameters.AddWithValue("@tranqty", TextBox2.Text);
-                command.Parameters.AddWithValue("@date", TextBox3.Text);
                 command.Parameters.AddWithValue("@itemid", DropDownList1.SelectedValue);
+                command.Parameters.AddWithValue("@transtype", tran);
+                command.Parameters.AddWithValue("@transqty", Convert.ToInt32(TextBox2.Text));
+                command.Parameters.AddWithValue("@transdate", TextBox3.Text);
+                command.Parameters.AddWithValue("@TransID", tranid);
+
+
                 con.Open();
                 command.ExecuteNonQuery();
 
@@ -98,33 +106,46 @@ namespace drivenit
                 command = new SqlCommand(query, con);
                 command.Parameters.AddWithValue("@itemid", DropDownList1.SelectedValue);
                 int bq = Convert.ToInt32(command.ExecuteScalar());
-                if (tran == "I")
-                {
-                    bq = bq - Convert.ToInt32(TextBox2.Text);
-                }
-                if (tran == "R")
-                {
-                    bq = bq + Convert.ToInt32(TextBox2.Text);
-                }
+                Response.Write("bq"+bq.ToString());
+                Response.Write("updateqty" + updateqty.ToString());
 
-                query = "update ItemMaster set balqty where itemid=@itemid";
-                command = new SqlCommand(query, con);
-                command.Parameters.AddWithValue("@balqty", bq);
-                command.Parameters.AddWithValue("itemid", DropDownList1.SelectedValue);
+                if (RadioButton1.Checked)
+                
+                   bq = bq - updateqty;
+                
+                if (RadioButton2.Checked)
+                
+                    bq = bq + updateqty;
+                
+                Response.Write("<br>newupdateqty" + bq.ToString());
+                if (bq < 0)
+                {
+                    Label1.Text = "stock not available";
+                }
+                else
+                {
+                    query = "update ItemMaster set balqty=@balqty where itemid=@itemid";
+                    command = new SqlCommand(query, con);
+                    command.Parameters.AddWithValue("@balqty", bq);
+                    command.Parameters.AddWithValue("itemid", DropDownList1.Text);
+                    command.ExecuteNonQuery();
+                    Label1.Text = "RECORD SAVDE";
+                }
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Label1.Text = ex.ToString();
             }
-            
+
             finally { con.Close(); }
            // con.Close();
-            Label1.Text = "RECORD SAVDE";
+           
         }
 
         protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            TextBox2.Text = GridView1.SelectedRow.Cells[4].Text;
+          
+
         }
 
         protected void Button3_Click(object sender, EventArgs e)
@@ -146,6 +167,29 @@ namespace drivenit
             finally {
                 con.Close();
             }
+        }
+        static int tranid = 0;
+        static int oldtranqty = 0;
+        protected void GridView1_SelectedIndexChanged1(object sender, EventArgs e)
+        {
+            TextBox2.Text = GridView1.SelectedRow.Cells[4].Text;
+            oldtranqty=Convert.ToInt32(TextBox2.Text);
+            DateTime dd = Convert.ToDateTime(GridView1.SelectedRow.Cells[5].Text);
+            TextBox3.Text = dd.ToString("yyyy-MM-dd");
+            DropDownList1.SelectedValue = GridView1.SelectedRow.Cells[1].Text;
+            string res = GridView1.SelectedRow.Cells[3].Text;
+            if (res == "I")
+            {
+                RadioButton1.Checked = true;
+                RadioButton2.Checked = false;
+            }
+            if (res == "R")
+            {
+                RadioButton2.Checked = true;
+                RadioButton1.Checked = false;
+
+            }
+            tranid = Convert.ToInt32(GridView1.SelectedRow.Cells[1].Text);
         }
     }
 }
