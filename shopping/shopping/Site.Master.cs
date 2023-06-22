@@ -9,9 +9,10 @@ namespace shopping
 {
     public partial class SiteMaster : MasterPage
     {
-        protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
+    //    protected void Page_Load(object sender, EventArgs e)
+    //    {
+    //        string prodid = Request.QueryString["prodid"].ToString();
+    //        Session["prodid"] = prodid;
+    //    }
     }
 }
