@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome to emp</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<center>
+    <h1> Employee Details</h1>
+</center>
+@{
+    var p = new Emp(1,12345,"anjali","jsw","anjali@");
+
+}
+<p>Id:@(p.Id)</p>
+<p>Phone:@(p.Phone)</p>
+<p>Name:@(p.Name)</p>
+<p>Address:@(p.Address)</p>
+<p>Email:@(p.email)</p>
+

@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome to student</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<h1>Student Information</h1>
+@{
+    string username = "anjali";
+    int a = 100;
+    int b = 90;
+    int c = 80;
+    int total = a + b + c;
+    float per = (float)(total / 300.0f) * 100.0f;
+}
+<p>Student Name:@username</p>
+<p>Student total:@total</p>
+<p>Student percentage:@per</p>
+@{
+    string grade = "first";
+    <p>Student Grade:@grade</p>
+}
+<p>@DateTime.Now</p>
+<p>@DateTime.IsLeapYear(2016)</p>
+@{
+<p> time 7 days before:@DateTime.Now-TimeSpan.FromDays(7)</p>
+<p>Last week: @DateTime.Now -TimeSpan.FromDays(7)</p>
+}
+
+@{
+    var p = new Person("joe", 23);
+
+}
+<p>Age@(p.Age)</p>
+<p>Name(@p.Name)</p>
