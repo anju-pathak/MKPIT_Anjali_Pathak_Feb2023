@@ -6,3 +6,124 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+@*----------if-----------*@
+@{
+    int age = 18;
+    if( age<=18)
+    {
+        <p>valid age to vote</p>
+    }
+    else
+    {
+        <p>not valid age to vote</p>
+    }
+}
+@*----------for ----------*@
+@{
+    int num = 1;
+    for(num=1;num<=5;num++)
+    {
+        <p>number @num</p>
+    }
+}
+@*
+----if else if------*@
+@{
+    int value = 1004;
+    if(value%2==0)
+    {
+        <p>number is even</p>
+    }
+    else if(value==123)
+    {
+        <p>number is odd</p>
+    }
+    else
+    {
+        <p>incorrect number</p>
+    }
+}
+
+@*-----switch case-----*@
+@switch(value)
+{
+    case 1:
+        <p>the value is 1</p>
+        break;
+        case 2 :
+        <p>your number is 2</p>
+            break;
+            default:
+            <p>it is not a number</p>
+            break;
+
+}
+
+@*-----switch case-----*@
+@{
+    var dayno = 3;
+}
+@switch(dayno)
+{
+    case 1:
+        <p>monday</p>
+        break;
+    case 2:
+        <p>tuesday</p>
+        break;
+    case 3:
+        <p>wednesday</p>
+        break;
+    default:
+        <p>not a day</p>
+        break;
+}
+---------while-------
+   
+    
+    @{   
+    int numb = 1;
+    while(numb<=10)
+    {
+        <p>number @numb</p>
+        num++;
+    }
+}
+
+@{
+    string name = "admin";
+    string password = "admin";
+    if(name=="admin" && password=="admin")
+    {
+        <p>login successfully</p>
+    }
+    else
+    {
+        <p>invalid details</p>
+    }
+}
+@using (Html.BeginForm())
+{
+    <div>
+        Email: <input type="email" id="Email" value="">
+        <button>Register</button>
+    </div>
+}
+
+
+@functions {
+public string GetHello()
+{
+return "Hello";
+}
+}
+
+<div>From method: @GetHello()</div>@functions 
+{
+public string GetHello()
+{
+return "Hello";
+}
+}
+
+<div>From method: @GetHello()</div>

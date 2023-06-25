@@ -37,3 +37,13 @@
 }
 <p>Age@(p.Age)</p>
 <p>Name(@p.Name)</p>
+
+@{
+    string[] people = { "Jani", "Hege", "Kai", "Jim" };
+}
+
+@for (var i = 0; i < people.Length; i++)
+{
+    var person = people[i];
+    <text>Name: @person <br /></text>
+}
