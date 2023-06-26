@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model calmvc.Models.Number
+@using(Html.BeginForm("Index","Number",FormMethod.Post))
+{
+    @Html.TextBoxFor(m=>m.num)
+    <br />
+    <input type="submit" value="check" />
+}
+<hr />
+<h3> calculation results :</h3>
+result : @ViewBag.res
+<br />
+
+<br />

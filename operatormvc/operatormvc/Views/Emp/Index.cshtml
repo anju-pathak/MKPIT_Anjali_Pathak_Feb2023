@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model operatormvc.Models.Emp
+@using (Html.BeginForm("Index", "Emp", FormMethod.Post))
+{
+    <h5>Enter name</h5>
+    @Html.TextBoxFor(m=>m.name)
+    <br />
+    <h5>Enter sal</h5>
+    @Html.TextBoxFor(m=>m.sal)
+    <br />
+    <h5>Enter des</h5>
+    @Html.TextBoxFor(m=>m.des)
+    <br />
+    <input type="submit" value="ok" />
+
+}
+result : @ViewBag.result;

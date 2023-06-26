@@ -5,6 +5,26 @@
       "PackagePath": "staticwebassets\\mvc wwbsite.bundle.scp.css"
     },
     {
+      "Id": "E:\\ccccshrap\\MKPIT_Anjali_Pathak_Feb2023\\mvc wwbsite\\mvc wwbsite\\wwwroot\\Frame-1.png",
+      "PackagePath": "staticwebassets\\Frame-1.png"
+    },
+    {
+      "Id": "E:\\ccccshrap\\MKPIT_Anjali_Pathak_Feb2023\\mvc wwbsite\\mvc wwbsite\\wwwroot\\Frame-3.png",
+      "PackagePath": "staticwebassets\\Frame-3.png"
+    },
+    {
+      "Id": "E:\\ccccshrap\\MKPIT_Anjali_Pathak_Feb2023\\mvc wwbsite\\mvc wwbsite\\wwwroot\\Frame-5.png",
+      "PackagePath": "staticwebassets\\Frame-5.png"
+    },
+    {
+      "Id": "E:\\ccccshrap\\MKPIT_Anjali_Pathak_Feb2023\\mvc wwbsite\\mvc wwbsite\\wwwroot\\Frame-6.png",
+      "PackagePath": "staticwebassets\\Frame-6.png"
+    },
+    {
+      "Id": "E:\\ccccshrap\\MKPIT_Anjali_Pathak_Feb2023\\mvc wwbsite\\mvc wwbsite\\wwwroot\\Frame-7.png",
+      "PackagePath": "staticwebassets\\Frame-7.png"
+    },
+    {
       "Id": "E:\\ccccshrap\\MKPIT_Anjali_Pathak_Feb2023\\mvc wwbsite\\mvc wwbsite\\wwwroot\\JSW-Logo.jpg",
       "PackagePath": "staticwebassets\\JSW-Logo.jpg"
     },
@@ -13,12 +33,20 @@
       "PackagePath": "staticwebassets\\JVMKalmesh.png"
     },
     {
+      "Id": "E:\\ccccshrap\\MKPIT_Anjali_Pathak_Feb2023\\mvc wwbsite\\mvc wwbsite\\wwwroot\\Logo-300x298.png",
+      "PackagePath": "staticwebassets\\Logo-300x298.png"
+    },
+    {
       "Id": "E:\\ccccshrap\\MKPIT_Anjali_Pathak_Feb2023\\mvc wwbsite\\mvc wwbsite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "E:\\ccccshrap\\MKPIT_Anjali_Pathak_Feb2023\\mvc wwbsite\\mvc wwbsite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ccccshrap\\MKPIT_Anjali_Pathak_Feb2023\\mvc wwbsite\\mvc wwbsite\\wwwroot\\homepage1.jpg",
+      "PackagePath": "staticwebassets\\homepage1.jpg"
     },
     {
       "Id": "E:\\ccccshrap\\MKPIT_Anjali_Pathak_Feb2023\\mvc wwbsite\\mvc wwbsite\\wwwroot\\js\\site.js",
