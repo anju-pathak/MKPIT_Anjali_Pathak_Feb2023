@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model radiomvc.Models.Reg
+@using (Html.BeginForm("Index", "Reg", FormMethod.Post))
+{
+    <h6>Enter name</h6>
+    @Html.TextBoxFor(m=>m.name)
+    <br />
+    <h6>Enter password</h6>
+    @Html.TextBoxFor(m=>m.password)
+    <br />
+    <h6>Enter email</h6>
+    @Html.TextBoxFor(m=>m.email)
+   
+    <h6>male</h6> @Html.RadioButtonFor(m=>m.gender,"male")
+    <h6>female</h6> @Html.RadioButtonFor(m=>m.gender,"female")
+   <h6>sub1</h6> @Html.CheckBoxFor(m=>m.sub1,true)
+    <h6>sub2</h6>@Html.CheckBoxFor(m=>m.sub2,false)
+   
+    <input type="submit" values="ok">
+}
+<br />
+<h6>Output</h6>
+@ViewBag.name <br />
+
+@ViewBag.password<br />
+@ViewBag.email<br />
+@ViewBag.gender<br />
+@ViewBag.res<br />

@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model checkboxmvc.Models.Sum
+@using (Html.BeginForm("Index","Sum",FormMethod.Post))
+{
+    <h6>Operation</h6>
+    <br />
+    <h6>Enter number</h6>@Html.TextBoxFor(m=>m.n1)
+    <br />
+    <h6>Enter number</h6>
+
+    @Html.TextBoxFor(m=>m.n2)
+    <br />
+    <h6>Add</h6>@Html.CheckBoxFor(m=>m.add,true)
+    
+    <h6>Sub</h6>
+
+    @Html.CheckBoxFor(m=>m.sub,true)
+    
+    <h6>mul</h6>
+
+    @Html.CheckBoxFor(m=>m.mul,true)
+    <br />
+    <input type="submit" value="ok">
+    
+}
+<h1>result</h1>
+add:@ViewBag.res1
+<h6>sub</h6>:@ViewBag.res2
+<br />
+mul:@ViewBag.res3
+
