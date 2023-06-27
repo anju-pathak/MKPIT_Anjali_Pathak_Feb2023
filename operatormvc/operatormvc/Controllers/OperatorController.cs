@@ -13,29 +13,29 @@ namespace operatormvc.Controllers
         [HttpPost]
         public ActionResult Index(Operator o)
         {
-            int n1 = o.n1;
-            int n2 = o.n2;
-            int n3 = o.n3;
+            int num1 = o.n1;
+            int num2 = o.n2;
+            char n3;
             int res;
             if (o.n3== '+')
             {
-                res = n1 + n2;
+                res = num1 + num2;
             }
             else if (o.n3 == '-')
             {
-                res = n1 - n2;
+                res = num1 - num2;
             }
             else if(o.n3=='*')
             {
-                res = n1 * n2;
+                res = num1 * num2;
             }
             else if (o.n3 == '%')
             {
-                res = n1 / n2;
+                res = num1 / num2;
             }
             else
             {
-                res = 1;
+                res = 5;
             }
             
             @ViewBag.result = o.res;

@@ -10,28 +10,28 @@ namespace operatormvc.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Index(Emp o)
+        public IActionResult Index(Emp e)
         {
-            string n1 = o.name;
-            int n2 = o.sal;
-            string n3 = o.des;
+            string n1 = e.name;
+            int n2 = e.sal;
+            string n3 = e.des;
             int res;
-            string des="";
-            if (des == "mangaer")
+            //string des="";
+            if (e.des == "managar")
             {
-                res = 10000;
+                res = e.sal+10000;
             }
-            else if (des == "clerk")
+            else if (e.des == "clerk")
             {
                 res = 5000;
             }
-            else if (des == "peon")
+            else if (e.des == "peon")
             {
                 res = 1000;
             }
             else
             {
-                res = 00;
+                res = 001;
             }
 
             @ViewBag.result = res;
