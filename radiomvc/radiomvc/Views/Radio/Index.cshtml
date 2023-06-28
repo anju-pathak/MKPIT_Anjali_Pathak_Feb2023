@@ -6,17 +6,27 @@
 @model radiomvc.Models.Radio
 @using (Html.BeginForm("Index","Radio",FormMethod.Post))
 {
-    <h6>Enter number</h6>
+    <h1><b>Operators</b></h1>
+    <hr />
+    <h5>Enter number</h5>
+    <br />
     @Html.TextBoxFor(m=>m.n1)
     <br />
-    <h6>Enter number</h6>
+    <h5>Enter number</h5>
+    <br />
     @Html.TextBoxFor(m=>m.n2)
     <br />
-  <h6>Add</h6> @Html.RadioButtonFor(m=>m.caltype,"add")
-    <h6>Sub</h6>@Html.RadioButtonFor(m=>m.caltype,"sub")
-    <h6>mul</h6>@Html.RadioButtonFor(m=>m.caltype,"mul")
+    <br />
+    <hr />
+  <span><h1>Add</h1></span> @Html.RadioButtonFor(m=>m.caltype,"add")
+    <span>Sub</span>@Html.RadioButtonFor(m=>m.caltype,"sub")
+    <span>mul</span>@Html.RadioButtonFor(m=>m.caltype,"mul")
+    <br />
+    <hr />
     <input type="submit" values="ok">
 }
+<hr />
 <br />
-<h6>result</h6>
+<h2>Result is:</h2>
+
 @ViewBag.res

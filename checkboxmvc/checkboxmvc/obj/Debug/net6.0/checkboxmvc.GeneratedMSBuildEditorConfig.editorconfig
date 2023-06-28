@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\checkboxmvc\checkboxmvc
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/ccccshrap/MKPIT_Anjali_Pathak_Feb2023/checkboxmvc/checkboxmvc/Views/Attandance/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YW5kYW5jZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/ccccshrap/MKPIT_Anjali_Pathak_Feb2023/checkboxmvc/checkboxmvc/Views/Company/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

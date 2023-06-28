@@ -1,0 +1,43 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model dropdownmvc.Models.Customer
+@using (Html.BeginForm("Index","Cusdetails",FormMethod.Post))
+{
+    <h1>Product  Details</h1>
+    <br />
+    <hr />
+    <h4>Enter Order Number</h4>
+    @Html.TextBoxFor(m=>m.orderno)
+    <br />
+    <h4>Enter Name</h4>
+    @Html.TextBoxFor(m=>m.customername)
+    <br />
+    <br />
+    <hr />
+
+    @Html.DropDownListFor(m=>m.getprd,new SelectList(Enum.GetValues(typeof(prd))),"select")
+    <br />
+    <h4>Enter Price</h4>
+    @Html.TextBoxFor(m=>m.price)
+    <br />
+    <h4>Enter Quantity</h4>
+    @Html.TextBoxFor(m=>m.qty)
+    <br />
+
+
+
+    
+    <br />
+    <hr />
+    <input type="submit" values="ok"/>
+    <hr />
+}
+<h1>output</h1>
+Orderno:@ViewBag.orderno<br />
+Name:@ViewBag.customername<br />
+Price:@ViewBag.price<br />
+quantity:@ViewBag.qty<br />
+Product:@ViewBag.prd<br />

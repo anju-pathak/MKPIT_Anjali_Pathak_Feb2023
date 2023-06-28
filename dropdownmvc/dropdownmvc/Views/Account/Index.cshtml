@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model dropdownmvc.Models.Account
+@using (Html.BeginForm("Index","Account",FormMethod.Post))
+{
+    <h1>Account Details</h1>
+    <br />
+    <hr />
+    <h4>Enter Account Number</h4>
+    @Html.TextBoxFor(m=>m.accountno)
+    <br />
+    <h4>Enter Ammount</h4>
+    @Html.TextBoxFor(m=>m.amount)
+    <br />
+    @Html.DropDownListFor(m=>m.getamount,new SelectList(Enum.GetValues(typeof(transtype))),"select")
+    <br />
+    <hr />
+    <input type="submit" values="ok"/>
+    <hr />
+
+}
+<h1>result</h1>
+Account no:@ViewBag.accountno<br />
+Amount:@ViewBag.amount<br />
+Balance:@ViewBag.bal<br />

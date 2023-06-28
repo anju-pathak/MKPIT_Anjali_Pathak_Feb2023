@@ -10,6 +10,7 @@
         public double res { get; set; }
         public double res1 { get; set; }
         public double res2 { get; set; }
+        public double res3 { get; set; }
 
     }
 }

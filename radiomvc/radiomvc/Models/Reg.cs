@@ -9,6 +9,6 @@
         public string res { get; set; }
         public bool sub1 { get; set; }
         public bool sub2 { get; set; }
-
+        public string res1 { get; set; }
     }
 }

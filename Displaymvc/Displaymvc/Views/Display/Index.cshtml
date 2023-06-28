@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Displaymvc.Models.Display
+@using(Html.BeginForm("Index","Display",FormMethod.Post))
+{
+    <h1>Details</h1>
+    <hr />
+    <br />
+    <h4>Enter name</h4>
+    @Html.TextBoxFor(m=>m.name)
+    <br />
+    <hr />
+    <input type="submit" value="ok"/>
+    @Html.ActionLink("Contact page","Index","Contact")
+
+}
+@Html.DisplayFor(m=>m.name)
+
+

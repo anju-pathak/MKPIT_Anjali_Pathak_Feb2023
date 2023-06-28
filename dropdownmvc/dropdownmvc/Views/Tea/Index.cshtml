@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model dropdownmvc.Models.Tea
+@using (Html.BeginForm("Index","Tea",FormMethod.Post))
+{
+    <h1>Details</h1>
+    <br />
+    <hr />
+    @Html.DropDownListFor(m=>m.gettea,new SelectList(Enum.GetValues(typeof(teatype))),"select")
+    <br />
+    <hr />
+    <input type="submit" values="ok"/>
+    <hr />
+}
+<h6>Result</h6>
+@ViewBag.teatype

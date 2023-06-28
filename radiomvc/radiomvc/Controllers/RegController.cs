@@ -22,9 +22,10 @@ namespace radiomvc.Controllers
             }
             if (r.sub2==true)
             {
-               r.res = "java";
+               r.res1= "java";
             }
             ViewBag.res = r.res;
+            ViewBag.res1 = r.res1;
             return View();
         }
     }

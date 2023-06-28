@@ -6,6 +6,10 @@
 @model checkboxmvc.Models.Company
 @using (Html.BeginForm("Index", "Company", FormMethod.Post))
 {
+    <center>
+    <h1 style="color:red">Employee Salary Details</h1>
+    <br>
+
     <h6>Enter Name</h6>
     @Html.TextBoxFor(m=>m.Name)
     <br />
@@ -13,27 +17,31 @@
 
     @Html.TextBoxFor(m=>m.sal)
     <br />
-    <h6>hr</h6>
+    <br>
+    <span>hr</span>
 
     @Html.CheckBoxFor(m=>m.hr,true)
 
-    <h6>da</h6>
+    <span>da</span>
 
     @Html.CheckBoxFor(m=>m.da,true)
 
-    <h6>ta</h6>
+    <span>ta</span>
 
     @Html.CheckBoxFor(m=>m.ta,true)
     <br />
     <input type="submit" value="ok">
+    </center>
 
 }
-@ViewBag.Name<br />
-@ViewBag.sal<br />
-
-@ViewBag.res<br />
-@ViewBag.res1
+<center>
+<h1>Employee Details</h1>
+Name:@ViewBag.Name<br />
+HR:@ViewBag.res<br />
+DA:@ViewBag.res1
 <br />
-@ViewBag.res2
-<br />
+TA:@ViewBag.res2
 
+<br />
+Total Sal:@ViewBag.res3;
+</center>

@@ -14,6 +14,7 @@ namespace checkboxmvc.Controllers
         {
             ViewBag.Name=c.Name;
             ViewBag.sal = c.sal;
+            
             if(c.hr==true)
             {
                 c.res = c.sal * 0.25;
@@ -21,15 +22,15 @@ namespace checkboxmvc.Controllers
             }
             if(c.da==true)
             {
-                c.res1 = c.sal * 0.10;
+                c.res1 = c.sal * 0.45;
                 ViewBag.res1 = c.res1;
             }
             if(c.hr==true)
             {
-                c.res2 = c.sal * 0.05;
+                c.res2 = c.sal * 0.15;
                 ViewBag.res2= c.res2;
             }
-      
+            ViewBag.res3 = c.res + c.res1 + c.res2;
             return View();
         }
     }

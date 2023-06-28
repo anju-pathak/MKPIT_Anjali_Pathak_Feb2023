@@ -6,17 +6,23 @@
 @model radiomvc.Models.Bank
 @using (Html.BeginForm("Index", "Bank", FormMethod.Post))
 {
+    <h1>Account Details</h1>
+    <br /><hr />
     <h6>Enter Name</h6>
     @Html.TextBoxFor(m=>m.name)
     <br />
     <h6>Enter Amount</h6>
     @Html.TextBoxFor(m=>m.amount)
-    
-    <h6>deposite</h6> @Html.RadioButtonFor(m=>m.acctype,"deposite")
-    <h6>withdrwal</h6> @Html.RadioButtonFor(m=>m.acctype,"withdrwal")
+    <br />
+    <span>deposite</span> @Html.RadioButtonFor(m=>m.acctype,"deposite")
+    <span>withdrwal</span> @Html.RadioButtonFor(m=>m.acctype,"withdrwal")
+    <br />
+    <hr />
     <input type="submit" values="ok">
+    <hr />
 }
-@ViewBag.name<br />
-@ViewBag.amount<br />
-@ViewBag.acctype<br />
+<h2>Total Amount is:</h2>
+Name:@ViewBag.name<br />
+Amount:@ViewBag.amount<br />
+Bal is:@ViewBag.acctype<br />
 @ViewBag.res<br />
