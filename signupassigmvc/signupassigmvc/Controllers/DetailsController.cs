@@ -20,7 +20,7 @@ namespace signupassigmvc.Controllers
             string res;
             var selectedvalue = d.getcity;
             ViewBag.city = selectedvalue.ToString();
-            if(d.male==true)
+            if (d.male == true)
             {
                 d.res = "male";
             }
