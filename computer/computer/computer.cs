@@ -38,7 +38,7 @@ namespace computer
         public static DataSet GetProduct(string Product_Type_Name)
         {
             SqlConnection conn = GetConnection();
-            string query = "Select p.ProductTypelD,Product_Name from TableProduct p inner join TableProductCategory s on\r\n p.ProductTypelD=s.Product_Category_Id where Product_Type_Name=@Product_Type_Name";
+            string query = "Select p.ProductTypelD,Product_Name from TableProduct p inner join TableProductCategory s on p.ProductTypelD=s.Product_Category_Id where Product_Type_Name=@Product_Type_Name";
             DataSet ds = new DataSet();
             SqlDataAdapter da = new SqlDataAdapter(query, conn);
              da.SelectCommand.Parameters.AddWithValue("@Product_Type_Name",Product_Type_Name);

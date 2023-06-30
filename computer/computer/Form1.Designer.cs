@@ -81,6 +81,7 @@
             this.radioButton4 = new System.Windows.Forms.RadioButton();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.groupBox7 = new System.Windows.Forms.GroupBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -311,6 +312,7 @@
             // 
             // groupBox4
             // 
+            this.groupBox4.Controls.Add(this.groupBox7);
             this.groupBox4.Controls.Add(this.textBox4);
             this.groupBox4.Controls.Add(this.textBox3);
             this.groupBox4.Controls.Add(this.textBox2);
@@ -349,6 +351,7 @@
             this.textBox2.ReadOnly = true;
             this.textBox2.Size = new System.Drawing.Size(200, 22);
             this.textBox2.TabIndex = 5;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox1
             // 
@@ -458,6 +461,7 @@
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(205, 22);
             this.textBox9.TabIndex = 6;
+            this.textBox9.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
             // 
             // textBox7
             // 
@@ -602,6 +606,15 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // groupBox7
+            // 
+            this.groupBox7.Location = new System.Drawing.Point(226, 52);
+            this.groupBox7.Name = "groupBox7";
+            this.groupBox7.Size = new System.Drawing.Size(151, 55);
+            this.groupBox7.TabIndex = 8;
+            this.groupBox7.TabStop = false;
+            this.groupBox7.Text = "groupBox7";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -689,6 +702,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.TextBox textBox16;
         private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.GroupBox groupBox7;
     }
 }
 

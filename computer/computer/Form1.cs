@@ -115,7 +115,7 @@ namespace computer
             textBox11.Text = cgst.ToString();
             double sgst = Convert.ToDouble(textBox4.Text) * ((Convert.ToDouble(textBox12.Text) / 100.0));
             textBox13.Text = sgst.ToString();
-            double netamount = Convert.ToDouble(textBox9.Text) + Convert.ToDouble(textBox13.Text);
+            double netamount = Convert.ToDouble(textBox9.Text) + Convert.ToDouble(textBox13.Text) + Convert.ToDouble(textBox11.Text);
             textBox14.Text = netamount.ToString();
             //calculate_total();
         }
@@ -218,6 +218,15 @@ namespace computer
             }
         }
 
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox9_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
