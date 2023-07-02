@@ -1,0 +1,11 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\UI desgin\UI desgin\bin\Debug\UI desgin.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\UI desgin\UI desgin\bin\Debug\UI desgin.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\UI desgin\UI desgin\bin\Debug\UI desgin.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\UI desgin\UI desgin\obj\Debug\UI desgin.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\UI desgin\UI desgin\obj\Debug\UI desgin.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\UI desgin\UI desgin\obj\Debug\UI_desgin.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\UI desgin\UI desgin\obj\Debug\UI_desgin.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\UI desgin\UI desgin\obj\Debug\UI desgin.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\UI desgin\UI desgin\obj\Debug\UI desgin.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\UI desgin\UI desgin\obj\Debug\UI desgin.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\UI desgin\UI desgin\obj\Debug\UI desgin.pdb

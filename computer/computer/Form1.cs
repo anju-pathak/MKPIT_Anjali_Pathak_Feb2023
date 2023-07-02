@@ -227,6 +227,34 @@ namespace computer
         {
 
         }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+            if(textBox5.Text==null)
+            {
+                MessageBox.Show("please fill details");
+            }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox4_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label16_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label15_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

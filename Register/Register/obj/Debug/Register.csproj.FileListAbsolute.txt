@@ -1,0 +1,12 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\bin\Debug\Register.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\bin\Debug\Register.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\bin\Debug\Register.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\obj\Debug\Register.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\obj\Debug\Register.csproj.SuggestedBindingRedirects.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\obj\Debug\Register.Form1.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\obj\Debug\Register.Properties.Resources.resources
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\obj\Debug\Register.csproj.GenerateResource.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\obj\Debug\Register.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\obj\Debug\Register.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\obj\Debug\Register.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\Register\Register\obj\Debug\Register.Form2.resources
