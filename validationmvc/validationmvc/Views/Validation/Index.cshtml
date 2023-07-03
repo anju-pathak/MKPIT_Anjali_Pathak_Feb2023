@@ -1,0 +1,49 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model validationmsg2.mvc.Models.validation
+@using (Html.BeginForm("index", "Validation", FormMethod.Post))
+{
+    <h1>Details</h1>
+    @Html.LabelFor(m=>m.name)
+    @Html.TextBoxFor(m=>m.name)
+    @Html.ValidationMessageFor(m=>m.name)
+    <br />
+    <br />
+    <hr />
+    @Html.LabelFor(m=>m.age)
+    @Html.TextBoxFor(m=>m.age)
+    @Html.ValidationMessageFor(m=>m.age,"",new{@class="text-danger"})
+   
+    <br />
+    <hr />
+    @Html.LabelFor(m=>m.email)
+    @Html.TextBoxFor(m=>m.email)
+    @Html.ValidationMessageFor(m=>m.email)
+    <br />
+    <hr />
+      <hr />
+    @Html.LabelFor(m=>m.confirmmail)
+    @Html.TextBoxFor(m=>m.confirmmail)
+    @Html.ValidationMessageFor(m=>m.confirmmail)
+    <br />
+    <hr />
+    <hr />
+    @Html.LabelFor(m=>m.phone)
+    @Html.TextBoxFor(m=>m.phone)
+    @Html.ValidationMessageFor(m=>m.phone)
+    <br />
+    <hr />
+    <input type="submit" value="ok" />
+}
+<h1>Details are</h1>
+Name :@ViewBag.name
+<br />
+Age :@ViewBag.age
+<br />
+email :@ViewBag.email
+<br />
+phone :@ViewBag.phone
+<br />

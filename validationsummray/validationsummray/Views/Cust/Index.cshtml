@@ -1,0 +1,49 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model validationsummray.Models.Cust
+@using (Html.BeginForm("Index", "Cust", FormMethod.Post))
+{
+    <h4>Enter number</h4>
+    @Html.TextBoxFor(m=>m.orderno)
+    @Html.ValidationMessageFor(m=>m.orderno,"",new{@class="text-danger"})
+    <br />
+    <h4>Enter custname</h4>
+    @Html.TextBoxFor(m=>m.custname)
+    @Html.ValidationMessageFor(m=>m.custname,"",new{@class="text-danger"})
+    <br />
+      <br />
+    <h4>Enter Productname</h4>
+    @Html.TextBoxFor(m=>m.productname)
+    @Html.ValidationMessageFor(m=>m.productname,"",new{@class="text-danger"})
+    <br />
+
+      <br />
+    <h4>Enter qty</h4>
+    @Html.TextBoxFor(m=>m.qty)
+    @Html.ValidationMessageFor(m=>m.qty,"",new{@class="text-danger"})
+    <br />
+      <br />
+    <h4>Enter price</h4>
+    @Html.TextBoxFor(m=>m.prdprice)
+    @Html.ValidationMessageFor(m=>m.prdprice ,"",new{@class="text-danger"})
+    <br />
+    <input type="submit" value="ok" />
+    @Html.ValidationSummary(false,"",new{@class="alert-danger"})
+
+}
+
+@ViewBag.orderno
+<br />
+@ViewBag.custname
+<br />
+@ViewBag.productname
+<br />
+@ViewBag.qty
+
+<br />
+@ViewBag.prdprice
+<br />
+@ViewBag.res

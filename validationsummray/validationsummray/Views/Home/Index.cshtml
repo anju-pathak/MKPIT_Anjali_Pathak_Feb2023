@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@model validationsummray.Models.Class
+@using(Html.BeginForm("Index","Home",FormMethod.Post))
+{
+<h1>Details</h1>
+
+<h4>username</h4>
+@Html.TextBoxFor(m=>m.name)
+<br />
+    <h4>number</h4>
+    @Html.TextBoxFor(m=>m.phone)
+    <br />
+    <hr />
+    <h4>age</h4>
+    @Html.TextBoxFor(m=>m.age)
+    <br />
+    <hr />
+
+    <input type="submit" value="ok"/>
+    <br />
+    @Html.ValidationSummary(false, "", new { @class = "alert-danger"})
+}
+@ViewBag.name
+@ViewBag.phone
+@ViewBag.age
+@ViewBag.HireDate
