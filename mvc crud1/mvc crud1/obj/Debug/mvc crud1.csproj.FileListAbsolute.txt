@@ -1,0 +1,79 @@
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\mvc crud1.dll.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\mvc crud1.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\mvc crud1.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\csc.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\csc.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\csc.rsp
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\csi.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\csi.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\csi.rsp
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.AppContext.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Collections.Immutable.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Console.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Globalization.Calendars.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.IO.Compression.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.IO.FileSystem.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Net.Http.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Net.Sockets.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Reflection.Metadata.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.ValueTuple.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Xml.XPath.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\vbc.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\vbc.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\vbc.rsp
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\VBCSCompiler.exe
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\roslyn\VBCSCompiler.exe.config
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\Antlr3.Runtime.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\Microsoft.Web.Infrastructure.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\Newtonsoft.Json.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.Helpers.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.Mvc.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.Optimization.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.Razor.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.WebPages.Deployment.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.WebPages.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.WebPages.Razor.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\WebGrease.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.Helpers.xml
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.Mvc.xml
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.Optimization.xml
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.Razor.xml
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.WebPages.xml
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.WebPages.Deployment.xml
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\System.Web.WebPages.Razor.xml
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\Newtonsoft.Json.xml
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\Antlr3.Runtime.pdb
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\obj\Debug\mvc crud1.csproj.AssemblyReference.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\obj\Debug\mvc crud1.csproj.CoreCompileInputs.cache
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\obj\Debug\mvc crud1.csproj.CopyComplete
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\obj\Debug\mvc crud1.dll
+E:\ccccshrap\MKPIT_Anjali_Pathak_Feb2023\mvc crud1\mvc crud1\obj\Debug\mvc crud1.pdb

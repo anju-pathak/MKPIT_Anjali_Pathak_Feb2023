@@ -64,7 +64,7 @@ namespace databaseinsert.Controllers
 
             List<Insert> iList = new List<Insert>();
 
-            string query = "SELECT * FROM Persons";
+            string query = "SELECT * FROM Itemlist";
             SqlCommand cmd = new SqlCommand(query, con);
             SqlDataAdapter adapter = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();

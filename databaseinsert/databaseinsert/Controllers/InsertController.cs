@@ -51,7 +51,7 @@ namespace databaseinsert.Controllers
             {
                 ItemDBHandler item = new ItemDBHandler();
                 item.UpadteItem(ilist);
-                return RedirectToAction("Index1");
+                return RedirectToAction("Index");
             }
             catch (Exception ex)
             {
@@ -72,7 +72,7 @@ namespace databaseinsert.Controllers
             {
                 ItemDBHandler item = new ItemDBHandler();
                item.DeleteItem(itm);
-                return RedirectToAction("Index1");
+                return RedirectToAction("Index");
 
             }
             catch 
