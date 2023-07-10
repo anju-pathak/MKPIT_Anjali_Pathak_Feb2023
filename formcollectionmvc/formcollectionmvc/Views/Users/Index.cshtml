@@ -1,0 +1,24 @@
+﻿
+@using (Html.BeginForm("Submit", "Users", FormMethod.Post))
+{
+    <table>
+        <tr>
+            <td>Enter ID</td>
+            <td>
+                @Html.TextBox("Id")
+            </td>
+        </tr>
+        <tr>
+            <td>Enter Name</td>
+            <td>
+                @Html.TextBox("Name")
+            </td>
+        </tr>
+        <input type="submit" value="ok" />
+    </table>
+}
+ID: @ViewBag.Id
+<br />
+Name: @ViewBag.Name
+<br />
+
