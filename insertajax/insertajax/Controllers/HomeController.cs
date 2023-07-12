@@ -21,7 +21,7 @@ namespace insertajax.Controllers
         private void connection()
         {
             // string constr = ConfigurationManager.ConnectionStrings["SqlConn"].ToString();
-            string constr = "server=.\\sqlexpress;integrated security=true;database=mvc";
+            string constr = "server=MANISH\\SQLEXPRESS;integrated security=true;database=mvc1";
             con = new SqlConnection(constr);
 
         }
